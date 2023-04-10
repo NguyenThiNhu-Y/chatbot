@@ -1,0 +1,72 @@
+version: "3.1"
+
+stories:
+
+# - story: happy path
+#   steps:
+#   - intent: greet
+#   - action: utter_greet
+#   - intent: mood_great
+#   - action: utter_happy
+
+# - story: sad path 1
+#   steps:
+#   - intent: greet
+#   - action: utter_greet
+#   - intent: mood_unhappy
+#   - action: utter_cheer_up
+#   - action: utter_did_that_help
+#   - intent: affirm
+#   - action: utter_happy
+
+# - story: sad path 2
+#   steps:
+#   - intent: greet
+#   - action: utter_greet
+#   - intent: mood_unhappy
+#   - action: utter_cheer_up
+#   - action: utter_did_that_help
+#   - intent: deny
+#   - action: utter_goodbye
+
+# - story: test db
+#   steps: 
+#   - intent: test_db
+#   - action: action_hello_world
+
+# - story: search retaurant
+#   steps:
+#   - intent: search_restaurant
+#   - action: action_search_restaurant
+
+# - story: xin chao
+#   steps:
+#   - intent: xin_chao
+#   - action: utter_greet
+
+- story: Greet user
+  steps:
+  - intent: xin_chao
+  - action: utter_xin_chao
+
+- story: Goodbye user
+  steps:
+  - intent: tam_biet
+  - action: utter_tam_biet
+
+- story: khai niem ve nganh
+  steps:
+  - intent: cau_hoi_75
+  - action: action_define_major
+
+- story: hoi nganh
+  steps: 
+  - intent: cau_hoi_76
+  - action: action_cau_tra_loi_chung
+
+- story: hoc ngang X co kho khong
+  steps: 
+  - intent: cau_hoi_78
+  - action: action_defficult
+
+

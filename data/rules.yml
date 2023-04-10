@@ -1,0 +1,378 @@
+version: "3.1"
+
+rules: 
+
+- rule: rule_cau_hoi_1
+  steps:
+  - intent: cau_hoi_1
+  - action: utter_cau_hoi_1
+
+- rule: rule_cau_hoi_2
+  steps:
+  - intent: cau_hoi_2
+  - action: utter_cau_hoi_2
+
+- rule: rule_cau_hoi_3
+  steps:
+  - intent: cau_hoi_3
+  - action: utter_cau_hoi_3
+
+- rule: rule_cau_hoi_4
+  steps:
+  - intent: cau_hoi_4
+  - action: utter_cau_hoi_4
+
+- rule: rule_cau_hoi_5
+  steps:
+  - intent: cau_hoi_5
+  - action: utter_cau_hoi_5
+
+- rule: rule_cau_hoi_6
+  steps:
+  - intent: cau_hoi_6
+  - action: utter_cau_hoi_6
+
+- rule: rule_cau_hoi_7
+  steps:
+  - intent: cau_hoi_7
+  - action: utter_cau_hoi_7
+
+- rule: rule_cau_hoi_8
+  steps:
+  - intent: cau_hoi_8
+  - action: utter_cau_hoi_8
+
+- rule: rule_cau_hoi_9
+  steps:
+  - intent: cau_hoi_9
+  - action: utter_cau_hoi_9
+
+- rule: rule_cau_hoi_10
+  steps:
+  - intent: cau_hoi_10
+  - action: utter_cau_hoi_10
+
+- rule: rule_cau_hoi_11
+  steps:
+  - intent: cau_hoi_11
+  - action: utter_cau_hoi_11
+
+- rule: rule_cau_hoi_12
+  steps:
+  - intent: cau_hoi_12
+  - action: utter_cau_hoi_12
+
+- rule: rule_cau_hoi_13
+  steps:
+  - intent: cau_hoi_13
+  - action: utter_cau_hoi_13
+
+- rule: rule_cau_hoi_14
+  steps:
+  - intent: cau_hoi_14
+  - action: utter_cau_hoi_14
+
+- rule: rule_cau_hoi_15
+  steps:
+  - intent: cau_hoi_15
+  - action: utter_cau_hoi_15
+
+- rule: rule_cau_hoi_16
+  steps:
+  - intent: cau_hoi_16
+  - action: utter_cau_hoi_16
+
+- rule: rule_cau_hoi_17
+  steps:
+  - intent: cau_hoi_17
+  - action: utter_cau_hoi_17
+
+- rule: rule_cau_hoi_18
+  steps:
+  - intent: cau_hoi_18
+  - action: utter_cau_hoi_18
+
+- rule: rule_cau_hoi_19
+  steps:
+  - intent: cau_hoi_19
+  - action: utter_cau_hoi_19
+
+- rule: rule_cau_hoi_20
+  steps:
+  - intent: cau_hoi_20
+  - action: utter_cau_hoi_20
+
+- rule: rule_cau_hoi_21
+  steps:
+  - intent: cau_hoi_21
+  - action: utter_cau_hoi_21
+
+- rule: rule_cau_hoi_22
+  steps:
+  - intent: cau_hoi_22
+  - action: utter_cau_hoi_22
+
+- rule: rule_cau_hoi_23
+  steps:
+  - intent: cau_hoi_23
+  - action: utter_cau_hoi_23
+
+- rule: rule_cau_hoi_24
+  steps:
+  - intent: cau_hoi_24
+  - action: utter_cau_hoi_24
+
+- rule: rule_cau_hoi_25
+  steps:
+  - intent: cau_hoi_25
+  - action: utter_cau_hoi_25
+
+- rule: rule_cau_hoi_26
+  steps:
+  - intent: cau_hoi_26
+  - action: utter_cau_hoi_26
+
+- rule: rule_cau_hoi_27
+  steps:
+  - intent: cau_hoi_27
+  - action: utter_cau_hoi_27
+
+- rule: rule_cau_hoi_28
+  steps:
+  - intent: cau_hoi_28
+  - action: utter_cau_hoi_28
+
+- rule: rule_cau_hoi_29
+  steps:
+  - intent: cau_hoi_29
+  - action: utter_cau_hoi_29
+
+- rule: rule_cau_hoi_30
+  steps:
+  - intent: cau_hoi_30
+  - action: utter_cau_hoi_30
+
+- rule: rule_cau_hoi_31
+  steps:
+  - intent: cau_hoi_31
+  - action: utter_cau_hoi_31
+
+- rule: rule_cau_hoi_32
+  steps:
+  - intent: cau_hoi_32
+  - action: utter_cau_hoi_32
+
+- rule: rule_cau_hoi_33
+  steps:
+  - intent: cau_hoi_33
+  - action: utter_cau_hoi_33
+
+- rule: rule_cau_hoi_34
+  steps:
+  - intent: cau_hoi_34
+  - action: utter_cau_hoi_34
+
+- rule: rule_cau_hoi_35
+  steps:
+  - intent: cau_hoi_35
+  - action: utter_cau_hoi_35
+
+- rule: rule_cau_hoi_36
+  steps:
+  - intent: cau_hoi_36
+  - action: utter_cau_hoi_36
+
+- rule: rule_cau_hoi_37
+  steps:
+  - intent: cau_hoi_37
+  - action: utter_cau_hoi_37
+
+- rule: rule_cau_hoi_38
+  steps:
+  - intent: cau_hoi_38
+  - action: utter_cau_hoi_38
+
+- rule: rule_cau_hoi_39
+  steps:
+  - intent: cau_hoi_39
+  - action: utter_cau_hoi_39
+
+- rule: rule_cau_hoi_40
+  steps:
+  - intent: cau_hoi_40
+  - action: utter_cau_hoi_40
+
+- rule: rule_cau_hoi_41
+  steps:
+  - intent: cau_hoi_41
+  - action: utter_cau_hoi_41
+
+- rule: rule_cau_hoi_42
+  steps:
+  - intent: cau_hoi_42
+  - action: utter_cau_hoi_42
+
+- rule: rule_cau_hoi_43
+  steps:
+  - intent: cau_hoi_43
+  - action: utter_cau_hoi_43
+
+- rule: rule_cau_hoi_44
+  steps:
+  - intent: cau_hoi_44
+  - action: utter_cau_hoi_44
+
+- rule: rule_cau_hoi_45
+  steps:
+  - intent: cau_hoi_45
+  - action: utter_cau_hoi_45
+
+- rule: rule_cau_hoi_46
+  steps:
+  - intent: cau_hoi_46
+  - action: utter_cau_hoi_46
+
+- rule: rule_cau_hoi_47
+  steps:
+  - intent: cau_hoi_47
+  - action: utter_cau_hoi_47
+
+- rule: rule_cau_hoi_48
+  steps:
+  - intent: cau_hoi_48
+  - action: utter_cau_hoi_48
+
+- rule: rule_cau_hoi_49
+  steps:
+  - intent: cau_hoi_49
+  - action: utter_cau_hoi_49
+
+- rule: rule_cau_hoi_50
+  steps:
+  - intent: cau_hoi_50
+  - action: utter_cau_hoi_50
+
+- rule: rule_cau_hoi_51
+  steps:
+  - intent: cau_hoi_51
+  - action: utter_cau_hoi_51
+
+- rule: rule_cau_hoi_52
+  steps:
+  - intent: cau_hoi_52
+  - action: utter_cau_hoi_52
+
+- rule: rule_cau_hoi_53
+  steps:
+  - intent: cau_hoi_53
+  - action: utter_cau_hoi_53
+
+- rule: rule_cau_hoi_54
+  steps:
+  - intent: cau_hoi_54
+  - action: utter_cau_hoi_54
+
+- rule: rule_cau_hoi_55
+  steps:
+  - intent: cau_hoi_55
+  - action: utter_cau_hoi_55
+
+- rule: rule_cau_hoi_56
+  steps:
+  - intent: cau_hoi_56
+  - action: utter_cau_hoi_56
+
+- rule: rule_cau_hoi_57
+  steps:
+  - intent: cau_hoi_57
+  - action: utter_cau_hoi_57
+
+- rule: rule_cau_hoi_58
+  steps:
+  - intent: cau_hoi_58
+  - action: utter_cau_hoi_58
+
+- rule: rule_cau_hoi_59
+  steps:
+  - intent: cau_hoi_59
+  - action: utter_cau_hoi_59
+
+- rule: rule_cau_hoi_60
+  steps:
+  - intent: cau_hoi_60
+  - action: utter_cau_hoi_60
+
+- rule: rule_cau_hoi_61
+  steps:
+  - intent: cau_hoi_61
+  - action: utter_cau_hoi_61
+
+- rule: rule_cau_hoi_62
+  steps:
+  - intent: cau_hoi_62
+  - action: utter_cau_hoi_62
+
+- rule: rule_cau_hoi_63
+  steps:
+  - intent: cau_hoi_63
+  - action: utter_cau_hoi_63
+
+- rule: rule_cau_hoi_64
+  steps:
+  - intent: cau_hoi_64
+  - action: utter_cau_hoi_64
+
+- rule: rule_cau_hoi_65
+  steps:
+  - intent: cau_hoi_65
+  - action: utter_cau_hoi_65
+
+- rule: rule_cau_hoi_66
+  steps:
+  - intent: cau_hoi_66
+  - action: utter_cau_hoi_66
+
+- rule: rule_cau_hoi_67
+  steps:
+  - intent: cau_hoi_67
+  - action: utter_cau_hoi_67
+
+- rule: rule_cau_hoi_68
+  steps:
+  - intent: cau_hoi_68
+  - action: utter_cau_hoi_68
+
+- rule: rule_cau_hoi_69
+  steps:
+  - intent: cau_hoi_69
+  - action: utter_cau_hoi_69
+
+- rule: rule_cau_hoi_70
+  steps:
+  - intent: cau_hoi_70
+  - action: utter_cau_hoi_70
+
+- rule: rule_cau_hoi_71
+  steps:
+  - intent: cau_hoi_71
+  - action: utter_cau_hoi_71
+
+- rule: rule_cau_hoi_72
+  steps:
+  - intent: cau_hoi_72
+  - action: utter_cau_hoi_72
+
+- rule: rule_cau_hoi_73
+  steps:
+  - intent: cau_hoi_73
+  - action: utter_cau_hoi_73
+
+- rule: rule_cau_hoi_74
+  steps:
+  - intent: cau_hoi_74
+  - action: utter_cau_hoi_74
+
+- rule: rule_cau_hoi_77
+  steps:
+  - intent: cau_hoi_77
+  - action: utter_cau_hoi_77
