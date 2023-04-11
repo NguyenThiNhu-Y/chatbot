@@ -1,0 +1,898 @@
+[{
+  "_id": "640c56e651efcd11e8058310",
+  "example": [
+    "Khi tham khảo các ngành của trường Đại học Sư phạm Kỹ thuật, tôi rất muốn con tôi học ngành Kỹ thuật Điện – Điện tử hoặc Hệ thống cung cấp điện. 2 ngành này học như thế nào và khác nhau như thế nào?",
+    "Ngành Kỹ thuật Điện - Điện tử và Hệ thống cung cấp điện khác nhau như thế nào?",
+    "Phân biệt giữa ngành Kỹ thuật Điện - Điện tử và Hệ thống cung cấp điện",
+    "Sự khác nhau giữa ngành Kỹ thuật Điện - Điện tử và Hệ thống cung cấp điện"
+  ],
+  "name": "cau_hoi_1"
+},{
+  "_id": "640c56e651efcd11e8058311",
+  "example": [
+    "Học ngành Hệ thống cung cấp điện sau khi ra trường sẽ làm việc ở đâu?",
+    "Sau khi học xong ngành Hệ thống cung cấp điện thì có thể làm việc ở đâu",
+    "Những nơi làm việc của ngành Hệ thống cung cấp điện"
+  ],
+  "name": "cau_hoi_2"
+},{
+  "_id": "640c56e651efcd11e8058312",
+  "example": [
+    "Em nghe nói học đại học hiện nay, sinh viên tự học là chính. Em chưa có kiến thức nhiều về Công nghệ thông tin, ngay cả khi trong chương trình lớp 11 có học lập trình Pascal nhưng em và phần đông các bạn vẫn rất lơ mơ. Cô/Thầy cho em lời khuyên được không ạ?",
+    "Ngành Công nghệ thông tin có phải tự học nhiều không ạ? Em chưa có kiến thức về nhiều về Công nghệ thông tin thì có thể học ngành này không?",
+    "Khi vào học Công nghệ thông tin mình phải tự học là chính hay sao ạ? Em chưa có kiến thức cơ bản về Công nghệ thông tin thì có thể học Công nghệ thông tin được không?"
+  ],
+  "name": "cau_hoi_3"
+},{
+  "_id": "640c56e651efcd11e8058313",
+  "example": [
+    "Nhờ các thầy cô cho em biết thông tin về điểm trúng tuyển các ngành của Khoa Điện – Điện tử trong năm 2021-2022 được không ạ? Em tổng điểm học bạ tổ hợp 3 môn Toán – Lý – Hóa là 25 điểm thì có khả năng trúng tuyển ngành nào của Khoa trong năm nay ?",
+    "Em muốn được hỏi thông tin về điểm trúng tuyển các ngành của Khoa Điện – Điện tử trong năm 2021-2022. Nếu em có tổng điểm học bạ tổ hợp 3 môn Toán – Lý – Hóa là 25 điểm thì em có khả năng được nhận vào ngành nào của Khoa không?",
+    "Xin hỏi các thầy cô có thể cho em biết điểm trúng tuyển các ngành của Khoa Điện – Điện tử trong năm 2021-2022 được không ạ? Em có tổng điểm học bạ tổ hợp 3 môn Toán – Lý – Hóa là 25 điểm, liệu em có thể được trúng tuyển vào ngành nào của Khoa trong năm nay không?",
+    "Em có thể hỏi các thầy cô xem có thể cung cấp cho em thông tin về điểm chuẩn của các ngành thuộc Khoa Điện – Điện tử trong năm 2021-2022 không ạ? Tổng điểm học bạ tổ hợp 3 môn Toán – Lý – Hóa của em là 25 điểm, em đang muốn biết khả năng trúng tuyển vào ngành nào của Khoa."
+  ],
+  "name": "cau_hoi_4"
+},{
+  "_id": "640c56e651efcd11e8058314",
+  "example": [
+    "Nhu cầu nhân lực trong ngành Công nghệ thông tin có bị ảnh hưởng do dịch Covid-19 không? Đánh giá như thế nào về nhu cầu nhân lực Công nghệ thông tin trong thời gian đến?",
+    "Dịch Covid-19 có tác động đến nhu cầu nhân lực trong ngành Công nghệ thông tin không? Như thế nào là đánh giá về nhu cầu nhân lực Công nghệ thông tin trong thời gian tới?",
+    "Liệu dịch Covid-19 có gây ảnh hưởng đến nhu cầu nhân lực của ngành Công nghệ thông tin không? Có thể cho biết nhận định về tình hình nhu cầu nhân lực Công nghệ thông tin trong tương lai không?",
+    "Nhu cầu nhân lực trong lĩnh vực Công nghệ thông tin có bị tác động bởi đại dịch Covid-19 không? Có thể đánh giá như thế nào về tình hình tuyển dụng trong ngành Công nghệ thông tin trong thời gian sắp tới?"
+  ],
+  "name": "cau_hoi_5"
+},{
+  "_id": "640c56e651efcd11e8058315",
+  "example": [
+    "Cho em hỏi mức lương cho sinh viên Điện tử viễn thông, Điện- Điện tử sau khi tốt nghiệp ra trường là bao nhiêu? Và cho em biết các tiêu chí để đủ điều kiện được tuyển dụng vào công ty thương mại và công nghệ Vifatech?",
+    "Xin hỏi về mức lương của sinh viên tốt nghiệp ngành Điện tử viễn thông, Điện- Điện tử khi đi làm? Và có thể cho biết những tiêu chí để đủ điều kiện vào làm việc tại công ty thương mại và công nghệ Vifatech không?",
+    "Em muốn tìm hiểu về mức lương của những người mới tốt nghiệp chuyên ngành Điện tử viễn thông, Điện- Điện tử khi đi làm việc. Và xin được hỏi về những yêu cầu cần thiết để được tuyển dụng vào công ty thương mại và công nghệ Vifatech?",
+    "Cho em hỏi về mức thu nhập của các sinh viên mới tốt nghiệp chuyên ngành Điện tử viễn thông, Điện- Điện tử khi bắt đầu làm việc. Và xin được biết về các điều kiện cần thiết để đủ sức để ứng tuyển vào công ty thương mại và công nghệ Vifatech?"
+  ],
+  "name": "cau_hoi_6"
+},{
+  "_id": "640c56e651efcd11e8058316",
+  "example": [
+    "Thầy Cô tư vấn cho em ngành Công nghệ Thông tin của trường mình với ạ, cho em hỏi ngành Công nghệ Thông tin trường mình có khác gì với những trường khác trong Đại học Đà Nẵng không? Ngành Công nghệ Thông tin có xét học bạ không? Khi ra trường có được giới thiệu việc làm không?",
+    "Thầy cô có thể tư vấn cho em về ngành Công nghệ Thông tin tại trường em được không? Em muốn hỏi sự khác biệt của ngành này giữa trường em và các trường khác thuộc Đại học Đà Nẵng. Ngoài ra, xin hỏi liệu ngành Công nghệ Thông tin của trường em có tính học bạ không và khi ra trường có cơ hội được giới thiệu việc làm không?",
+    "Em muốn nhờ thầy cô tư vấn về ngành Công nghệ Thông tin tại trường mình. Cho em hỏi, ngành này có khác biệt gì so với các trường khác thuộc Đại học Đà Nẵng không? Ngành Công nghệ Thông tin có yêu cầu xét học bạ không? Và khi tốt nghiệp, có cơ hội được giới thiệu việc làm không?",
+    "Xin được thầy cô tư vấn về ngành Công nghệ Thông tin của trường em. Em muốn hỏi sự khác biệt của ngành này so với các trường khác thuộc Đại học Đà Nẵng. Ngoài ra, em cũng muốn hỏi liệu ngành Công nghệ Thông tin tại trường em có xét học bạ không và khi tốt nghiệp, có được giới thiệu việc làm không?"
+  ],
+  "name": "cau_hoi_7"
+},{
+  "_id": "640c56e651efcd11e8058317",
+  "example": [
+    "Thầy Cô cho em hỏi, ngành Công nghệ Vật liệu học có khó không?",
+    "Em muốn hỏi thầy cô rằng ngành Công nghệ Vật liệu học có độ khó như thế nào?",
+    "Cho em hỏi ngành Công nghệ Vật liệu học có phải là một ngành khó không ạ?",
+    "Thầy cô có thể cho em biết về độ khó của ngành Công nghệ Vật liệu học được không?"
+  ],
+  "name": "cau_hoi_8"
+},{
+  "_id": "640c56e651efcd11e8058318",
+  "example": [
+    "Thầy Cô cho em hỏi, Trường Đại học Sư phạm Kỹ thuật có cơ chế học song hành cùng lúc hai chương trình được không? Điều kiện để học song hành là gì?",
+    "Em muốn hỏi thầy cô rằng liệu Trường Đại học Sư phạm Kỹ thuật có cung cấp cơ hội học hai chương trình song song không? Nếu có, điều kiện để đáp ứng là gì?",
+    "Cho em hỏi Trường Đại học Sư phạm Kỹ thuật có cung cấp cơ hội học song hành hai chương trình không? Và điều kiện để đáp ứng là gì?",
+    "Thầy cô có thể cho em biết liệu Trường Đại học Sư phạm Kỹ thuật có cơ chế cho phép học hai chương trình song song không? Nếu có, em cần đáp ứng những điều kiện gì để được học hai chương trình?",
+    "Em có thể hỏi thầy cô rằng liệu Trường Đại học Sư phạm Kỹ thuật có cung cấp cơ hội học song hành hai chương trình không? Nếu được, thì em cần phải đáp ứng những điều kiện gì để tham gia?",
+    "Có thể học song ngành không"
+  ],
+  "name": "cau_hoi_9"
+},{
+  "_id": "640c56e651efcd11e8058319",
+  "example": [
+    "Thầy Cô cho em hỏi, em muốn tìm hiểu về ngành Cơ khí chế tạo của trường mình? Nhà em có Gara ô tô, vậy em học ngành Cơ khí có thuận lợi cho công việc gia đình sau này không? Điểm chuẩn của ngành này năm ngoái cao không?",
+    "Em có thể hỏi Thầy Cô về thông tin liên quan đến ngành Cơ khí chế tạo của trường không? Gia đình em sở hữu một Gara ô tô, vì vậy em muốn biết liệu học ngành Cơ khí có giúp ích cho công việc của gia đình em không? Vào năm trước, điểm chuẩn của ngành này có cao không?"
+  ],
+  "name": "cau_hoi_10"
+},{
+  "_id": "640c56e651efcd11e8058320",
+  "example": [
+    "Theo em được biết thì các trường đại học ở Thành phố Hồ Chí Minh sang năm học mới học phí sẽ tăng rất mạnh, có trường tăng đến 200 đến 400%. Vậy cho em hỏi lộ trình tăng học phí của trường mình như thế nào?",
+    "Em muốn hỏi về kế hoạch tăng học phí của trường mình trong thời gian tới, liệu có kế hoạch tăng đột biến giống như một số trường đại học ở TP.HCM hay không?"
+  ],
+  "name": "cau_hoi_11"
+},{
+  "_id": "640c56e651efcd11e8058321",
+  "example": [
+    "Cho em hỏi học ngành Sư phạm Kỹ thuật công nghiệp được chọn chuyên ngành vào thời gian nào và lợi thế của ngành cho sinh viên là gì?",
+    "Thưa thầy/cô, cho em hỏi thời điểm chọn chuyên ngành trong ngành Sư phạm Kỹ thuật công nghiệp là khi nào? Và sinh viên học ngành này có những lợi thế gì?",
+    "Em muốn biết thời gian chọn chuyên ngành trong ngành Sư phạm Kỹ thuật công nghiệp là khi nào? Và sinh viên học ngành này có được những lợi ích gì không?",
+    "Thầy/cô có thể giải đáp giúp em thời gian chọn chuyên ngành trong ngành Sư phạm Kỹ thuật công nghiệp là khi nào không? Và sinh viên học ngành này sẽ có những lợi thế gì?"
+  ],
+  "name": "cau_hoi_12"
+},{
+  "_id": "640c56e651efcd11e8058322",
+  "example": [
+    "Em và gia đình em băn khoăn rằng không biết là sau khi học ngành Công nghệ Kỹ thuật Cơ khí thì ra trường em có thể làm những công việc gì?",
+    "Em và gia đình đang lo lắng không biết với bằng Công nghệ Kỹ thuật Cơ khí thì em có thể đảm nhận được những công việc gì sau khi tốt nghiệp.",
+    "Chúng tôi đang phân vân không biết với tấm bằng Công nghệ Kỹ thuật Cơ khí thì có thể làm những việc gì khi ra trường.",
+    "Em và gia đình đang tự hỏi rằng sau khi học xong ngành Công nghệ Kỹ thuật Cơ khí thì có những công việc phù hợp với em hay không.",
+    "Em và gia đình đang băn khoăn không biết sau khi tốt nghiệp ngành Công nghệ Kỹ thuật Cơ khí thì có thể có được những cơ hội việc làm nào.",
+    "Chúng tôi đang lo lắng không biết với tấm bằng ngành Công nghệ Kỹ thuật Cơ khí thì có thể có được các cơ hội nghề nghiệp đa dạng hay không."
+  ],
+  "name": "cau_hoi_13"
+},{
+  "_id": "640c56e651efcd11e8058323",
+  "example": [
+    "Cho em hỏi học ngành Điện công nghiệp thì khả năng có việc làm có cao không, về liên kết doanh nghiệp đối với ngành này như thế nào",
+    "Em muốn tìm hiểu về tình hình việc làm trong ngành Điện công nghiệp và sự liên kết doanh nghiệp của ngành này.",
+    "Em có câu hỏi về khả năng tìm việc làm sau khi học ngành Điện công nghiệp và mối liên kết của ngành này với các doanh nghiệp.",
+    "Em đang quan tâm đến việc làm trong ngành Điện công nghiệp và muốn biết thêm về cơ hội việc làm và mối quan hệ của ngành này với các doanh nghiệp.",
+    "Em muốn hỏi về tình hình việc làm trong ngành Điện công nghiệp và mức độ hợp tác của ngành này với các doanh nghiệp.",
+    "Em quan tâm đến khả năng có việc làm trong ngành Điện công nghiệp và muốn hiểu thêm về mối quan hệ giữa ngành này và các doanh nghiệp."
+  ],
+  "name": "cau_hoi_14"
+},{
+  "_id": "640c56e651efcd11e8058324",
+  "example": [
+    "Thầy Cô cho em hỏi, em ở xa, vậy trường có chính sách ưu tiên cho sinh viên ở Ký túc xá không?",
+    "Em muốn hỏi về chính sách ưu tiên ở Ký túc xá của trường đối với sinh viên ở xa.",
+    "Em đang tìm hiểu về chính sách hỗ trợ ở Ký túc xá dành cho sinh viên đến từ xa của trường.",
+    "Em có câu hỏi về việc ưu tiên Ký túc xá của trường dành cho sinh viên từ xa.",
+    "Em quan tâm đến chính sách ưu tiên ở Ký túc xá của trường đối với sinh viên đến từ nơi khác.",
+    "Em muốn biết thêm về cách trường ưu tiên Ký túc xá cho sinh viên từ xa."
+  ],
+  "name": "cau_hoi_15"
+},{
+  "_id": "640c56e651efcd11e8058325",
+  "example": [
+    "Khi ra trường có được giới thiệu việc làm không ạ? ",
+    "Sau khi tốt nghiệp, có sự hỗ trợ nào từ trường về việc tìm kiếm việc làm không?",
+    "Có chương trình hỗ trợ tìm việc làm cho sinh viên ra trường không?",
+    "Trường có chính sách hỗ trợ giúp sinh viên tốt nghiệp tìm kiếm việc làm không?",
+    "Sau khi ra trường, liệu trường có giúp đỡ sinh viên tìm kiếm việc làm không?",
+    "Em muốn biết thêm về cách trường hỗ trợ sinh viên tốt nghiệp tìm kiếm việc làm."
+  ],
+  "name": "cau_hoi_16"
+},{
+  "_id": "640c56e651efcd11e8058326",
+  "example": [
+    "Thầy Cô cho em hỏi học ngành thực phẩm sẽ làm việc được ở đâu và học ngành này có khó lắm không ạ?",
+    "Em muốn hỏi về cơ hội việc làm sau khi học ngành Thực phẩm và mức độ khó khăn của ngành này.",
+    "Em đang quan tâm đến các lĩnh vực làm việc liên quan đến ngành Thực phẩm và sự khó khăn trong quá trình học tập của ngành này.",
+    "Em có câu hỏi về cơ hội việc làm của ngành Thực phẩm và sự phổ biến của ngành này trong thị trường lao động.",
+    "Em quan tâm đến khả năng làm việc của người học ngành Thực phẩm và những thách thức trong quá trình học tập và làm việc.",
+    "Em muốn biết thêm về tình hình việc làm của ngành Thực phẩm và những khó khăn cần vượt qua khi học ngành này."
+  ],
+  "name": "cau_hoi_17"
+},{
+  "_id": "640c56e651efcd11e8058327",
+  "example": [
+    "Trường cho em hỏi khi vào học ở trường có thể đi làm thêm được không ạ, ngoài giờ học ra Trường có những hoạt động gì cho tụi em không ạ",
+    "Em muốn hỏi về chính sách làm thêm của trường và các hoạt động ngoại khoá cho sinh viên.",
+    "Em có câu hỏi về khả năng làm thêm của sinh viên khi học tại trường và những hoạt động giải trí, phát triển kỹ năng mà trường cung cấp.",
+    "Em quan tâm đến chính sách làm thêm của trường và các hoạt động ngoại khóa hấp dẫn cho sinh viên.",
+    "Em muốn biết thêm về cơ hội làm thêm của sinh viên và các hoạt động giải trí, phát triển kỹ năng mà trường cung cấp.",
+    "Em có thắc mắc về chính sách làm thêm của trường và những hoạt động giải trí, giao lưu để nâng cao kỹ năng cho sinh viên."
+  ],
+  "name": "cau_hoi_18"
+},{
+  "_id": "640c56e651efcd11e8058328",
+  "example": [
+    "Thầy Cô cho em hỏi, khi xét tuyển bằng học bạ thì các ngành đều dùng chung những khối xét tuyển của trường, hay mỗi ngành vẫn dùng những khối xét tuyển riêng như thi THPT ạ?",
+    "Em muốn hỏi về cách xét tuyển của các ngành bằng học bạ, liệu các ngành sử dụng cùng một khối xét tuyển hay không.",
+    "Em có thắc mắc về việc các ngành sử dụng khối xét tuyển như thế nào khi xét tuyển bằng học bạ.",
+    "Em muốn biết liệu các ngành có dùng chung khối xét tuyển hay không, khi xét tuyển bằng học bạ.",
+    "Em quan tâm đến cách sử dụng khối xét tuyển của các ngành khi xét tuyển bằng học bạ.",
+    "Em có câu hỏi về cách các ngành xét tuyển bằng học bạ, liệu có sử dụng chung khối xét tuyển hay không."
+  ],
+  "name": "cau_hoi_19"
+},{
+  "_id": "640c56e651efcd11e8058329",
+  "example": [
+    "Thầy Cô cho em hỏi, cơ hội việc làm của ngành ô tô, học ngành Công nghệ kỹ thuật Ô tô có được học về điện trong ô tô không? Học ngành này em có sửa được ô tô và được lái ô tô không?",
+    "Em hỏi thầy cô về cơ hội việc làm trong ngành ô tô và liệu học ngành Công nghệ kỹ thuật Ô tô có cho phép học về hệ thống điện của ô tô không? Nếu học ngành này, em có thể sửa chữa và lái ô tô được không?",
+    "Thầy cô có thể giải đáp cho em về cơ hội việc làm trong ngành ô tô và xác định liệu học ngành Công nghệ kỹ thuật Ô tô có bao gồm học về hệ thống điện trong ô tô hay không? Nếu em học ngành này, liệu có thể sửa chữa và lái ô tô được không?",
+    "Em có thể hỏi thầy cô về cơ hội việc làm trong lĩnh vực ô tô và xem liệu ngành Công nghệ kỹ thuật Ô tô có đào tạo về hệ thống điện trong ô tô hay không? Nếu em học ngành này, liệu em có thể sửa chữa và lái ô tô không?"
+  ],
+  "name": "cau_hoi_20"
+},{
+  "_id": "640c56e651efcd11e8058330",
+  "example": [
+    "Trường Đại học Bách khoa (ĐHBK) và Trường Đại học Sư phạm Kỹ thuật (ĐHSPKT) đều đào tạo đại học trong lĩnh vực kỹ thuật, công nghệ. Vậy sự khác nhau trong đào tạo giữa hai trường là gì?",
+    "Cả Trường Đại học Bách khoa (ĐHBK) và Trường Đại học Sư phạm Kỹ thuật (ĐHSPKT) đều chuyên đào tạo các chương trình đại học về kỹ thuật và công nghệ. Vậy điểm khác biệt giữa hai trường là gì trong việc đào tạo này?",
+    "Cả Đại học Bách khoa (ĐHBK) và Đại học Sư phạm Kỹ thuật (ĐHSPKT) đều cung cấp các chương trình đào tạo đại học về kỹ thuật và công nghệ. Vậy điểm khác biệt giữa hai trường là gì trong việc đào tạo này?",
+    "Sở dĩ Trường Đại học Bách khoa (ĐHBK) và Trường Đại học Sư phạm Kỹ thuật (ĐHSPKT) đều được xem là những trường đại học hàng đầu trong lĩnh vực kỹ thuật và công nghệ, là bởi cả hai đều cung cấp các chương trình đào tạo đại học. Tuy nhiên, điểm khác biệt giữa hai trường đó là gì về mặt đào tạo?"
+  ],
+  "name": "cau_hoi_21"
+},{
+  "_id": "640c56e651efcd11e8058331",
+  "example": [
+    "Thầy Cô cho em hỏi, Trường Đại học Sư phạm Kỹ thuật có mấy phương thức xét tuyển, trong phương thức xét tuyển học bạ của, điểm trúng tuyển được xác định như thế nào?",
+    "Thầy cô có thể giải đáp cho em về số lượng phương thức xét tuyển tại Trường Đại học Sư phạm Kỹ thuật và cách thức xác định điểm trúng tuyển thông qua phương thức xét tuyển học bạ tại trường?",
+    "Em muốn hỏi thầy cô về số lượng phương thức xét tuyển tại Trường Đại học Sư phạm Kỹ thuật và cách thức định nghĩa điểm trúng tuyển thông qua phương thức xét tuyển học bạ ở trường?",
+    "Thầy cô có thể giải thích cho em về số lượng phương thức xét tuyển tại Trường Đại học Sư phạm Kỹ thuật và cách thức xác định điểm trúng tuyển thông qua phương thức xét tuyển học bạ tại trường không?"
+  ],
+  "name": "cau_hoi_22"
+},{
+  "_id": "640c56e651efcd11e8058332",
+  "example": [
+    "Thầy Cô cho em hỏi, khi vào trường học ngành Công nghệ Kỹ thuật Nhiệt, sinh viên chúng em được học theo định hướng ứng dụng là sao ạ?",
+    "Thưa thầy cô, em muốn hỏi khi học ngành Công nghệ Kỹ thuật Nhiệt ở trường, liệu chương trình đào tạo có hướng ứng dụng không ạ?",
+    "Em có thể hỏi thầy cô, khi theo học ngành Công nghệ Kỹ thuật Nhiệt ở trường, sinh viên có được đào tạo theo hướng ứng dụng không ạ?",
+    "Thầy cô có thể giải đáp giúp em, khi học ngành Công nghệ Kỹ thuật Nhiệt tại trường, liệu chương trình đào tạo có hướng ứng dụng hay không?"
+  ],
+  "name": "cau_hoi_23"
+},{
+  "_id": "640c56e651efcd11e8058333",
+  "example": [
+    "Cho em hỏi Khoa Điện - Điện tử hiện nay đào tạo những ngành nào? Những ngành này có đem lại nhiều cơ hội phát triển nghề nghiệp trong thời đại công nghệ CMCN 4.0 bùng nổ?",
+    "Thầy cô có thể giải đáp giúp em về các ngành được đào tạo tại Khoa Điện - Điện tử hiện nay? Và những ngành này có cơ hội phát triển trong thời đại công nghệ CMCN 4.0 không?",
+    "Em muốn hỏi thầy cô về các ngành được đào tạo tại Khoa Điện - Điện tử hiện nay và khả năng phát triển nghề nghiệp trong thời đại công nghệ CMCN 4.0?",
+    "Thầy cô có thể cho em biết về các ngành được đào tạo tại Khoa Điện - Điện tử hiện nay và tiềm năng phát triển nghề nghiệp trong thời đại công nghệ CMCN 4.0 được không?"
+  ],
+  "name": "cau_hoi_24"
+},{
+  "_id": "640c56e651efcd11e8058334",
+  "example": [
+    "Cơ hội việc làm của sinh viên tốt nghiệp ngành Xây dựng dân dụng & Công nghiệp như thế nào?",
+    "Thưa thầy cô, em muốn hỏi về tình hình việc làm của sinh viên tốt nghiệp ngành Xây dựng dân dụng & Công nghiệp. Có đáng kỳ vọng về cơ hội việc làm không ạ?",
+    "Em muốn biết về tình hình việc làm của sinh viên tốt nghiệp ngành Xây dựng dân dụng & Công nghiệp. Liệu có cơ hội việc làm tốt trong lĩnh vực này không ạ?",
+    "Thầy cô có thể giải đáp giúp em về tình hình việc làm của sinh viên tốt nghiệp ngành Xây dựng dân dụng & Công nghiệp? Có đáng kỳ vọng về cơ hội việc làm trong lĩnh vực này không ạ?"
+  ],
+  "name": "cau_hoi_25"
+},{
+  "_id": "640c56e651efcd11e8058335",
+  "example": [
+    "Em muốn biết tương lai và cơ hội việc làm của ngành Kỹ thuật Thực phẩm?",
+    "Em muốn tìm hiểu về triển vọng và cơ hội việc làm của ngành Kỹ thuật Thực phẩm trong tương lai.",
+    "Cho em hỏi về tương lai của ngành Kỹ thuật Thực phẩm và cơ hội việc làm trong lĩnh vực này.",
+    "Thưa thầy cô, em quan tâm đến tương lai của ngành Kỹ thuật Thực phẩm và xin hỏi về cơ hội việc làm của ngành này."
+  ],
+  "name": "cau_hoi_26"
+},{
+  "_id": "640c56e651efcd11e8058336",
+  "example": [
+    "Khoa Sư phạm Công nghiệp đào tạo những ngành nào?",
+    "Các ngành nào được đào tạo tại Khoa Sư phạm Công nghiệp?",
+    "Cho em hỏi, Khoa Sư phạm Công nghiệp đào tạo những chuyên ngành gì?",
+    "Xin hỏi, tại Khoa Sư phạm Công nghiệp có đào tạo các ngành gì?"
+  ],
+  "name": "cau_hoi_27"
+},{
+  "_id": "640c56e651efcd11e8058337",
+  "example": [
+    "Hiện nay em thấy nhiều cơ sở đào tạo ngành Xây dựng tại Đà Nẵng; nhà trường có thể cho em biết các ưu điểm khi đăng ký học các chuyên ngành xây dựng tại Khoa Kỹ thuật Xây dựng (Trường ĐH SPKT - ĐHĐN) được không?",
+    "Em thấy có nhiều trung tâm đào tạo ngành Xây dựng ở Đà Nẵng, vậy nhà trường có thể giới thiệu cho em những lợi ích của việc học các chuyên ngành Xây dựng tại Khoa Kỹ thuật Xây dựng (Trường ĐH SPKT - ĐHĐN) không?",
+    "Em nhận thấy hiện nay có nhiều cơ sở đào tạo ngành Xây dựng tại Đà Nẵng, liệu nhà trường có thể cho em biết những ưu điểm của việc học các chuyên ngành Xây dựng tại Khoa Kỹ thuật Xây dựng (Trường ĐH SPKT - ĐHĐN) được không?",
+    "Có rất nhiều trung tâm đào tạo Xây dựng tại Đà Nẵng, vậy nhà trường có thể giúp em hiểu rõ hơn về lợi ích của việc đăng ký học các chuyên ngành Xây dựng tại Khoa Kỹ thuật Xây dựng (Trường ĐH SPKT - ĐHĐN) không?"
+  ],
+  "name": "cau_hoi_28"
+},{
+  "_id": "640c56e651efcd11e8058338",
+  "example": [
+    "Em xin hỏi mức học phí trung bình một năm, cũng như các chế độ về học bổng, miễn giảm, hỗ trợ sinh viên của Trường ĐHSPKT?",
+    "Em muốn hỏi về chi phí học trung bình mỗi năm cũng như những chế độ hỗ trợ sinh viên như học bổng, miễn giảm học phí tại Trường Đại học Sư phạm Kỹ thuật?",
+    "Xin cho biết mức học phí trung bình hàng năm cũng như các chương trình hỗ trợ sinh viên như học bổng, miễn giảm học phí tại Trường ĐHSPKT?",
+    "Cho em hỏi về chi phí học tập trung bình mỗi năm và những chính sách hỗ trợ sinh viên bao gồm học bổng, miễn giảm học phí tại Trường ĐHSPKT được không?"
+  ],
+  "name": "cau_hoi_29"
+},{
+  "_id": "640c56e651efcd11e8058339",
+  "example": [
+    "Em muốn tìm hiểu về ngành Công nghệ Kỹ thuật Môi trường của Trường?",
+    "Em muốn tìm hiểu về chương trình đào tạo ngành Công nghệ Kỹ thuật Môi trường tại Trường?",
+    "Xin được hỏi về thông tin liên quan đến ngành Công nghệ Kỹ thuật Môi trường của Trường?",
+    "Cho em biết thêm về ngành Công nghệ Kỹ thuật Môi trường tại Trường được không?"
+  ],
+  "name": "cau_hoi_30"
+},{
+  "_id": "640c56e651efcd11e8058340",
+  "example": [
+    "Em muốn đăng ký ngành CNTT thuộc Khoa Công nghệ số cho em biết điểm chuẩn năm ngoái để xét vào ngành là bao nhiêu? Và chỉ tiêu năm nay?",
+    "Cho em biết điểm chuẩn của ngành CNTT thuộc Khoa Công nghệ số năm trước để em có thể xem xét đăng ký vào ngành này? Và chỉ tiêu tuyển sinh của năm nay là bao nhiêu?",
+    "Em muốn tìm hiểu về điểm chuẩn của ngành CNTT thuộc Khoa Công nghệ số năm trước và chỉ tiêu tuyển sinh của năm nay có được không?",
+    "Xin cho em biết điểm chuẩn của ngành CNTT thuộc Khoa Công nghệ số năm ngoái và chỉ tiêu tuyển sinh của năm nay tại Trường?"
+  ],
+  "name": "cau_hoi_31"
+},{
+  "_id": "640c56e651efcd11e8058341",
+  "example": [
+    "Thầy Cô cho em hỏi ngành Công nghệ Kỹ thuật Cơ điện tử học gì?",
+    "Em muốn hỏi về các nội dung chính của ngành Công nghệ Kỹ thuật Cơ điện tử?",
+    "Cho em biết những kiến thức chính mà ngành Công nghệ Kỹ thuật Cơ điện tử trang bị cho sinh viên?",
+    "Em muốn được giải đáp về chương trình đào tạo của ngành Công nghệ Kỹ thuật Cơ điện tử tại Trường?"
+  ],
+  "name": "cau_hoi_32"
+},{
+  "_id": "640c56e651efcd11e8058342",
+  "example": [
+    "Em có được chọn ngành có sàn cao hơn điểm đầu vào của em không?",
+    "Nếu điểm đầu vào của em không đủ để đăng ký vào ngành mà em muốn, thì liệu em có thể chọn ngành có sàn cao hơn được không?",
+    "Cho em hỏi nếu điểm đầu vào của em không đủ để đăng ký vào ngành em muốn, thì có thể chọn ngành có yêu cầu điểm đầu vào cao hơn không?",
+    "Em muốn tìm hiểu xem nếu em không đạt yêu cầu của ngành mình mong muốn thì có thể chọn ngành có sàn điểm đầu vào cao hơn được không?"
+  ],
+  "name": "cau_hoi_33"
+},{
+  "_id": "640c56e651efcd11e8058343",
+  "example": [
+    "Xin nhờ Thầy cô hướng dẫn cụ thể để xét em có thể nộp hồ sơ xét tuyển bằng học bạ được không ạ?",
+    "Em muốn hỏi Thầy cô hướng dẫn cách nộp hồ sơ xét tuyển bằng học bạ cho em được không ạ?",
+    "Cho em xin hướng dẫn chi tiết để nộp hồ sơ xét tuyển bằng học bạ được không Thầy cô?",
+    "Em muốn nhờ Thầy cô chỉ dẫn cụ thể về cách nộp hồ sơ xét tuyển bằng học bạ cho em với ạ."
+  ],
+  "name": "cau_hoi_34"
+},{
+  "_id": "640c56e651efcd11e8058344",
+  "example": [
+    "Khả năng có việc làm như thế nào sau khi ra trường, nhà trường có các hoạt động gì để hỗ trợ người học có việc làm?",
+    "Nhà trường có cung cấp các dịch vụ tư vấn, hỗ trợ việc làm cho sinh viên sau khi tốt nghiệp không?",
+    "Em muốn tìm hiểu về các hoạt động hỗ trợ việc làm của nhà trường, có được không?",
+    "Nhà trường có chương trình hỗ trợ việc làm cho sinh viên ra trường không? Và có thể cho em biết chi tiết hơn được không?"
+  ],
+  "name": "cau_hoi_35"
+},{
+  "_id": "640c56e651efcd11e8058345",
+  "example": [
+    "Nếu em vào Khoa Sư phạm Công nghiệp thì học phí hằng năm là khoảng bao nhiêu?",
+    "Nếu em đăng ký học tại Khoa Sư phạm Công nghiệp thì mức học phí trung bình mỗi năm là bao nhiêu?",
+    "Em muốn hỏi về học phí hàng năm tại Khoa Sư phạm Công nghiệp, liệu có được không?",
+    "Cho em hỏi nếu em vào Khoa Sư phạm Công nghiệp thì mức học phí trung bình mỗi năm là bao nhiêu vậy ạ?"
+  ],
+  "name": "cau_hoi_36"
+},{
+  "_id": "640c56e651efcd11e8058346",
+  "example": [
+    "Em đạt giải Bạc kì thi Olympic Toán học tỉnh Quảng Nam, kì thi được trao giải bởi Tỉnh, và có chữ ký của giám đốc tỉnh thì có được xem là đối tượng 2 trong hình thức xét tuyển thẳng hay không? Em đạt giải cấp 3 tỉnh môn tin có tuyển thẳng được vào ngành CNTT không ạ?",
+    "Với kết quả đạt giải Bạc kì thi Olympic Toán học được tổ chức bởi Tỉnh và có chữ ký của giám đốc tỉnh, liệu em có thể được xét tuyển thẳng vào trường không?",
+    "Em có thể được xét tuyển thẳng vào ngành CNTT với kết quả đạt giải cấp 3 tỉnh môn tin, phải không ạ?",
+    "Em muốn hỏi với thành tích đạt giải Bạc tại kì thi Olympic Toán học được tổ chức bởi Tỉnh và có chữ ký của giám đốc tỉnh, liệu em có thể được xét tuyển thẳng vào trường không?"
+  ],
+  "name": "cau_hoi_37"
+},{
+  "_id": "640c56e651efcd11e8058347",
+  "example": [
+    "Em muốn tìm hiểu Ngành Công nghệ Kỹ thuật Ô tô, cơ hội việc làm có cao không?",
+    "Em muốn biết cơ hội việc làm sau khi tốt nghiệp ngành Công nghệ Kỹ thuật Ô tô như thế nào?",
+    "Em muốn tìm hiểu về tình hình việc làm sau khi học ngành Công nghệ Kỹ thuật Ô tô có khả quan không?",
+    "Em muốn hỏi về tình hình việc làm sau khi học ngành Công nghệ Kỹ thuật Ô tô có thuận lợi không?"
+  ],
+  "name": "cau_hoi_38"
+},{
+  "_id": "640c56e651efcd11e8058348",
+  "example": [
+    "Em và gia đình em băn khoăn rằng không biết là sau khi học ngành Công nghệ kỹ thuật cơ khí thì ra trường em có thể làm những công việc gì?",
+    "Em muốn tìm hiểu về các công việc mà một sinh viên tốt nghiệp ngành Công nghệ kỹ thuật cơ khí có thể làm được sau khi ra trường?",
+    "Em và gia đình đang băn khoăn về cơ hội việc làm sau khi học ngành Công nghệ kỹ thuật cơ khí, liệu có thuận lợi không?",
+    "Em quan tâm đến tình hình việc làm của ngành Công nghệ kỹ thuật cơ khí sau khi tốt nghiệp, có thể cho em biết thông tin về vấn đề này được không?"
+  ],
+  "name": "cau_hoi_39"
+},{
+  "_id": "640c56e651efcd11e8058349",
+  "example": [
+    "Em muốn hỏi là “Con gái học ngành Xây dựng có thích hợp không?”",
+    "Em muốn hỏi về sự phù hợp của con gái khi học ngành Xây dựng?",
+    "Em muốn biết ngành Xây dựng có phù hợp với con gái không?",
+    "Em có thắc mắc về việc con gái học ngành Xây dựng có phù hợp không?"
+  ],
+  "name": "cau_hoi_40"
+},{
+  "_id": "640c56e651efcd11e8058350",
+  "example": [
+    "Em rất muốn học các ngành công nghệ…Hiện nay em thấy nhiều Trường Đại học đào tạo các ngành như CNTT, Điện - Điện tử, Tự Động hóa, Điện tử viễn thông? Vậy nhà trường tư vấn giúp em là chọn ngành hay chọn trường trước?",
+    "Em đang phân vân giữa việc học các ngành công nghệ như CNTT, Điện - Điện tử, Tự Động hóa, Điện tử viễn thông. Nhà trường có thể giúp em tư vấn về việc chọn ngành hoặc chọn trường trước không?",
+    "Em quan tâm đến các ngành công nghệ như CNTT, Điện - Điện tử, Tự Động hóa, Điện tử viễn thông. Nhà trường có thể giúp em đưa ra quyết định về việc chọn ngành hoặc chọn trường trước không?",
+    "Em đang phân vân giữa việc học các ngành công nghệ như CNTT, Điện - Điện tử, Tự Động hóa, Điện tử viễn thông. Xin nhờ nhà trường tư vấn giúp em chọn ngành hay chọn trường trước?"
+  ],
+  "name": "cau_hoi_41"
+},{
+  "_id": "640c56e651efcd11e8058351",
+  "example": [
+    "Em muốn biết nội dung đào tạo của ngành Công nghệ Vật liệu? Cơ hội việc làm sau khi tốt nghiệp?",
+    "Xin cho em hỏi về chương trình đào tạo và triển vọng việc làm của ngành Công nghệ Vật liệu được không?",
+    "Em muốn tìm hiểu về nội dung đào tạo và cơ hội việc làm sau khi học ngành Công nghệ Vật liệu?",
+    "Nhờ thầy cô giải đáp về các chương trình đào tạo và tương lai việc làm của ngành Công nghệ Vật liệu?",
+    "Em quan tâm đến chương trình học và cơ hội nghề nghiệp của ngành Công nghệ Vật liệu, có thể giúp em được không?",
+    "Xin được hỏi về nội dung và tương lai việc làm của ngành Công nghệ Vật liệu, cảm ơn nhà trường."
+  ],
+  "name": "cau_hoi_42"
+},{
+  "_id": "640c56e651efcd11e8058352",
+  "example": [
+    "Em muốn được biết về nội dung môn học Học kỳ doanh nghiệp trong chương trình đào tạo các chuyên ngành Xây dựng tại Khoa KTXD (Trường ĐH SPKT-ĐHĐN)?",
+    "Em muốn tìm hiểu về chương trình đào tạo các chuyên ngành Xây dựng tại Khoa KTXD (Trường ĐH SPKT-ĐHĐN) bao gồm môn học Học kỳ doanh nghiệp?",
+    "Em mong muốn có thông tin chi tiết về môn học Học kỳ doanh nghiệp trong chương trình đào tạo các chuyên ngành Xây dựng tại Khoa KTXD (Trường ĐH SPKT-ĐHĐN)?",
+    "Nhờ Thầy/Cô cung cấp thông tin về nội dung môn học Học kỳ doanh nghiệp trong chương trình đào tạo các chuyên ngành Xây dựng tại Khoa KTXD (Trường ĐH SPKT-ĐHĐN)?"
+  ],
+  "name": "cau_hoi_43"
+},{
+  "_id": "640c56e651efcd11e8058353",
+  "example": [
+    "Em muốn biết nội dung đào tạo của ngành Công nghệ Vật liệu? Cơ hội việc làm sau khi tốt nghiệp?",
+    "Em muốn tìm hiểu về chương trình đào tạo của ngành Công nghệ Vật liệu và cơ hội nghề nghiệp sau khi tốt nghiệp.",
+    "Em cần được tư vấn về nội dung học của ngành Công nghệ Vật liệu và khả năng tìm việc sau khi tốt nghiệp.",
+    "Em mong muốn biết chi tiết về chương trình đào tạo của ngành Công nghệ Vật liệu và triển vọng nghề nghiệp sau khi tốt nghiệp."
+  ],
+  "name": "cau_hoi_44"
+},{
+  "_id": "640c56e651efcd11e8058354",
+  "example": [
+    "Em được biết, Trường ĐHSPKT dự kiến sẽ tuyển sinh ngành Kiến trúc. Thầy cho em hỏi, trong năm 2021, Trường ĐHSPKT đã tuyển sinh ngành Kiến trúc chưa? và các tổ hợp xét tuyển của ngành Kiến trúc là gì ạ?",
+    "Cho em hỏi, Trường ĐHSPKT đã tuyển sinh ngành Kiến trúc vào năm nay chưa? Và các tổ hợp xét tuyển của ngành này là gì vậy ạ?",
+    "Em muốn hỏi, trong năm 2021, Trường ĐHSPKT đã tuyển sinh ngành Kiến trúc chưa? Nếu có, các tổ hợp xét tuyển của ngành này là gì ạ?",
+    "Thầy ơi, em được biết Trường ĐHSPKT sẽ mở tuyển ngành Kiến trúc. Nhưng cho em hỏi, trong năm nay trường đã mở tuyển chưa ạ? Và tổ hợp xét tuyển của ngành Kiến trúc là gì vậy thầy?"
+  ],
+  "name": "cau_hoi_45"
+},{
+  "_id": "640c56e651efcd11e8058355",
+  "example": [
+    "Thầy cô cho em hỏi em thích máy tính, lập trình robot, điều khiển qua mạng internet vậy em nên học ngành nào là phù hợp ạ?",
+    "Em quan tâm đến lập trình robot và điều khiển qua mạng internet, vậy em nên học ngành nào trong lĩnh vực máy tính?",
+    "Em đam mê lập trình robot và điều khiển qua mạng internet, thầy cô tư vấn cho em học ngành gì trong lĩnh vực này ạ?",
+    "Em mong muốn học về máy tính và các ứng dụng điều khiển robot qua mạng, thầy cô tư vấn cho em ngành nào phù hợp với sở thích của em được không ạ?"
+  ],
+  "name": "cau_hoi_46"
+},{
+  "_id": "640c56e651efcd11e8058356",
+  "example": [
+    "Em được biết, Trường ĐHSPKT dự kiến sẽ tuyển sinh ngành Kiến trúc. Thầy cho em hỏi, trong năm 2021, Trường ĐHSPKT đã tuyển sinh ngành Kiến trúc chưa? và các tổ hợp xét tuyển của ngành Kiến trúc là gì ạ?"
+  ],
+  "name": "cau_hoi_47"
+},{
+  "_id": "640c56e651efcd11e8058357",
+  "example": [
+    "Cho em hỏi trường mình có đào tạo lấy bằng Kỹ sư hay Cử nhân ?",
+    "Trường đào tạo bằng Kỹ sư hay Cử nhân ạ?",
+    "Em muốn biết trường mình cấp bằng Kỹ sư hay Cử nhân vậy ạ?",
+    "Trường mình có chương trình đào tạo lấy bằng Kỹ sư hay Cử nhân không ạ?"
+  ],
+  "name": "cau_hoi_48"
+},{
+  "_id": "640c56e651efcd11e8058358",
+  "example": [
+    "Chào thầy, cho em hỏi là em muốn nộp hồ sơ xét tuyển bằng học bạ vào Trường thế nào? Hồ sơ có cần chữ ký của thầy Hiệu trưởng của trường THPT không?",
+    "Thưa thầy, em muốn hỏi cách nộp hồ sơ xét tuyển bằng học bạ vào trường? Em có cần phải có chữ ký của Hiệu trưởng trường THPT không?",
+    "Xin chào thầy, em có một câu hỏi liên quan đến cách nộp hồ sơ xét tuyển bằng học bạ vào trường. Liệu rằng em cần phải có chữ ký của Hiệu trưởng trường THPT hay không?",
+    "Thầy ơi, em muốn hỏi về quy trình nộp hồ sơ xét tuyển bằng học bạ vào trường. Em cần phải có chữ ký của Hiệu trưởng trường THPT không ạ?"
+  ],
+  "name": "cau_hoi_49"
+},{
+  "_id": "640c56e651efcd11e8058359",
+  "example": [
+    "Cho em hỏi học ngành tự động hoá ra làm gì? Xin Thầy Cô cho biết chi tiết về ngành, cảm ơn Thầy Cô nhiều",
+    "Thầy Cô có thể giải thích về nội dung và cơ hội việc làm của ngành tự động hoá được không?",
+    "Em muốn hiểu rõ hơn về ngành tự động hoá và cách nó ứng dụng trong thực tế, có thể giúp em được không?",
+    "Em muốn biết thêm về ngành tự động hoá, những công việc mà ngành này có thể làm và cơ hội nghề nghiệp của ngành này.",
+    "Em mong muốn được tìm hiểu về ngành tự động hoá, thầy cô có thể hướng dẫn và giải đáp thắc mắc giúp em được không?"
+  ],
+  "name": "cau_hoi_50"
+},{
+  "_id": "640c56e651efcd11e8058360",
+  "example": [
+    "Thầy Cô tư vấn giúp em về ngành Công nghệ kỹ thuật ô tô, ngành này xét theo kết quả thi THPT như thế nào? Cho em hỏi ngành Cơ khí có được học lập trình máy CNC không?",
+    "Cho em hỏi về ngành Công nghệ kỹ thuật ô tô, xét theo kết quả thi THPT thì như thế nào? Và trong ngành Cơ khí, em có thể được học lập trình máy CNC không ạ?",
+    "Cho em hỏi về ngành Công nghệ kỹ thuật ô tô, thầy cô có thể tư vấn giúp em được không? Ngành này yêu cầu điểm thi THPT bao nhiêu?",
+    "Em muốn biết về điều kiện xét tuyển ngành Công nghệ kỹ thuật ô tô theo kết quả thi THPT. Thầy cô có thể giải đáp giúp em được không?",
+    "Xin thầy cô tư vấn giúp em về ngành Cơ khí, em muốn biết liệu có được học lập trình máy CNC không?",
+    "Cho em hỏi về yêu cầu điểm thi THPT của ngành Công nghệ kỹ thuật ô tô? Và em muốn biết thêm về nội dung đào tạo của ngành này, thầy cô có thể giúp em được không?"
+  ],
+  "name": "cau_hoi_51"
+},{
+  "_id": "640c56e651efcd11e8058361",
+  "example": [
+    "Thầy Cô cho em hỏi, ngành Kỹ thuật Hạ tầng là gì? học ngành này cơ hội đi nước ngoài cao không ?",
+    "Em muốn hỏi thầy cô về nội dung và tương lai nghề nghiệp của ngành Kỹ thuật Hạ tầng, liệu có cơ hội đi nước ngoài không?",
+    "Cho em biết thêm về ngành Kỹ thuật Hạ tầng và tiềm năng việc làm ở nước ngoài?",
+    "Em quan tâm đến ngành Kỹ thuật Hạ tầng, liệu ngành này có tiềm năng phát triển và cơ hội đi nước ngoài không?"
+  ],
+  "name": "cau_hoi_52"
+},{
+  "_id": "640c56e651efcd11e8058362",
+  "example": [
+    "Con tôi thi vào Trường Đại học Bách khoa và nguyện vọng 2 là Trường ĐHSPKT. Nhưng để chắc chắn không rớt đại học thì cháu định nộp hồ sơ xét học bạ ngành IT. Vậy vẫn có thể làm 2 hồ sơ cho 2 phương thức không? Nếu xét học bạ và cả điểm thi đại học thì làm riêng 2 bộ hồ sơ phải không? Nếu không đỗ tiêu chí học bạ thì có đc xét tiêu chí điểm thi THPT không?",
+    "Tôi có thể nộp đồng thời 2 hồ sơ cho 2 phương thức xét tuyển là đại học và xét học bạ chứ?",
+    "Nếu tôi nộp hồ sơ xét tuyển ngành IT theo học bạ, tôi vẫn có thể nộp hồ sơ đại học cho 2 trường được phải không? Và nếu vậy, tôi cần làm 2 bộ hồ sơ riêng biệt cho cả 2 phương thức đó phải không?",
+    "Nếu tôi không đạt tiêu chí xét tuyển theo học bạ thì tôi có thể xét tuyển bằng điểm thi đại học không?"
+  ],
+  "name": "cau_hoi_53"
+},{
+  "_id": "640c56e651efcd11e8058363",
+  "example": [
+    "Ngành Hệ thống cung cấp điện có giống như ngành Điện công nghiệp hay không?",
+    "Ngành Hệ thống cung cấp điện và ngành Điện công nghiệp có liên quan đến nhau không?",
+    "Ngành Hệ thống cung cấp điện có giống với ngành Điện công nghiệp không?",
+    "Hai ngành Hệ thống cung cấp điện và Điện công nghiệp có sự khác biệt gì nhau không?"
+  ],
+  "name": "cau_hoi_54"
+},{
+  "_id": "640c56e651efcd11e8058364",
+  "example": [
+    "Cho em hỏi em học ngành Kỹ thuật điện tử thì ra trường đi làm ở đâu, có dễ tìm việc làm hay không?",
+    "Em muốn tìm hiểu về cơ hội việc làm của ngành Kỹ thuật điện tử sau khi tốt nghiệp, liệu có dễ dàng tìm được việc làm không?",
+    "Ngành Kỹ thuật điện tử có những cơ hội việc làm như thế nào sau khi tốt nghiệp?",
+    "Cho em biết sau khi học ngành Kỹ thuật điện tử thì có thể đi làm ở đâu và có khó khăn trong việc tìm việc làm không?"
+  ],
+  "name": "cau_hoi_55"
+},{
+  "_id": "640c56e651efcd11e8058365",
+  "example": [
+    "Cô cho em hỏi ngành Công nghệ thông tin năm thứ 3 có phân chúng em vào các chuyên ngành dựa vào kết quả học tập hay không ạ?",
+    "Cho em hỏi năm thứ 3 của ngành Công nghệ thông tin, việc phân chuyên ngành dựa trên kết quả học tập của sinh viên phải không cô?",
+    "Năm thứ 3 của ngành Công nghệ thông tin, sinh viên có được phân vào các chuyên ngành khác nhau dựa trên kết quả học tập không cô?",
+    "Sinh viên ngành Công nghệ thông tin năm 3, liệu rằng phân chuyên ngành có dựa vào kết quả học tập không cô?"
+  ],
+  "name": "cau_hoi_56"
+},{
+  "_id": "640c56e651efcd11e8058366",
+  "example": [
+    "Em có mong muốn học ngành Tự động hóa. Vậy khi em trúng tuyển vào học thì em có được thực tập tại công ty thương mại và công nghệ Vifatech có được không ạ?",
+    "Em muốn học ngành Tự động hóa. Nếu trúng tuyển, em có thể thực tập tại công ty thương mại và công nghệ Vifatech không ạ?",
+    "Nếu em được nhận vào học ngành Tự động hóa, em có thể được thực tập tại công ty thương mại và công nghệ Vifatech không ạ?",
+    "Em có thể được thực tập tại công ty thương mại và công nghệ Vifatech khi học ngành Tự động hóa nếu em trúng tuyển không ạ?",
+    "Thầy/cô ơi, em muốn học ngành Tự động hóa và có nghe nói rằng em có thể được thực tập tại công ty thương mại và công nghệ Vifatech khi học. Liệu thông tin này có đúng không ạ?"
+  ],
+  "name": "cau_hoi_57"
+},{
+  "_id": "640c56e651efcd11e8058367",
+  "example": [
+    "Thầy cô cho em hỏi trường Đại học Sư phạm Kỹ thuật có mấy phương thức xét tuyển và trong phương thức xét tuyển học bạ được xét tuyển như thế nào?",
+    "Thầy cô có thể cho em biết trường Đại học Sư phạm Kỹ thuật có bao nhiêu cách xét tuyển và cách xét tuyển theo học bạ như thế nào không ạ?",
+    "Em muốn biết về phương thức xét tuyển và cách xét tuyển theo học bạ của trường Đại học Sư phạm Kỹ thuật, thầy cô có thể giải đáp giúp em được không?",
+    "Cho em hỏi, trường Đại học Sư phạm Kỹ thuật có bao nhiêu hình thức xét tuyển và trong đó phương thức xét tuyển theo học bạ được áp dụng như thế nào ạ?"
+  ],
+  "name": "cau_hoi_58"
+},{
+  "_id": "640c56e651efcd11e8058368",
+  "example": [
+    "Các thầy cô tư vấn giúp em nên chọn ngành hay chọn trường trước?",
+    "Các thầy cô có thể giúp em quyết định nên chọn ngành hay chọn trường trước không?",
+    "Em đang phân vân giữa việc chọn ngành và chọn trường, liệu có thể nhờ các thầy cô tư vấn giúp em?",
+    "Thầy cô có thể giúp em đưa ra quyết định đúng đắn giữa việc chọn ngành và chọn trường không?"
+  ],
+  "name": "cau_hoi_59"
+},{
+  "_id": "640c56e651efcd11e8058369",
+  "example": [
+    "Em có mong muốn được học ngành Công nghệ thông tin của trường Đại học Sư phạm Kỹ thuật. Vậy khi em được trúng tuyển vào trường thì em có được thực tập tại công ty VNPT–IT không ạ?",
+    "Em mong muốn học ngành Công nghệ thông tin của trường Đại học Sư phạm Kỹ thuật. Nếu em trúng tuyển vào trường, liệu em có cơ hội được thực tập tại công ty VNPT–IT không ạ?",
+    "Em quan tâm đến khả năng được thực tập tại công ty VNPT–IT khi học ngành Công nghệ thông tin của trường Đại học Sư phạm Kỹ thuật. Liệu em có cơ hội như vậy khi được trúng tuyển vào trường không ạ?"
+  ],
+  "name": "cau_hoi_60"
+},{
+  "_id": "640c56e651efcd11e8058370",
+  "example": [
+    "Cho em hỏi phương thức xét tuyển học bạ có cộng điểm vùng không ạ? Hồ sơ xét tuyển học bạ gồm những gì, phương thức làm hồ sơ xét học bạ gửi về trường bằng cách nào?",
+    "Học bạ được tính điểm vùng hay không khi xét tuyển theo phương thức này?",
+    "Hồ sơ xét tuyển học bạ gồm những giấy tờ gì? Cách gửi hồ sơ xét tuyển như thế nào?"
+  ],
+  "name": "cau_hoi_61"
+},{
+  "_id": "640c56e651efcd11e8058371",
+  "example": [
+    "Em là học sinh trường Nguyễn Duy Hiệu – Điện Bàn, qua người anh họ và trên trang facebook của nhà trường, em thấy trường có phòng thí nghiệm công nghệ 4.0. Em chưa hiểu phòng thí nghiệm này để làm gì ?",
+    "Em muốn hỏi phòng thí nghiệm công nghệ 4.0 của trường được sử dụng để nghiên cứu và phát triển công nghệ gì?",
+    "Em muốn tìm hiểu về phòng thí nghiệm công nghệ 4.0 của trường ",
+    "Em muốn biết phòng thí nghiệm công nghệ 4.0 của trường được thiết kế và trang bị như thế nào để đáp ứng các nhu cầu nghiên cứu và phát triển công nghệ hiện nay?"
+  ],
+  "name": "cau_hoi_62"
+},{
+  "_id": "640c56e651efcd11e8058372",
+  "example": [
+    "Cho em hỏi thầy cô đánh giá như thế nào về nhu cầu nguồn nhân lực của ngành Hệ thống điện, Điện tử viễn thông, Tự động hóa trong cuộc cách mạng công nghiệp 4.0 ?",
+    "Thầy cô cho em biết ngành Hệ thống điện, Điện tử viễn thông, Tự động hóa có nhu cầu về nhân lực như thế nào trong cuộc cách mạng công nghiệp 4.0?",
+    "Em muốn hỏi ý kiến thầy cô về tình hình tuyển dụng nhân lực trong các ngành Hệ thống điện, Điện tử viễn thông, Tự động hóa trong bối cảnh cách mạng công nghiệp 4.0?",
+    "Thầy cô có thể cho em biết thông tin về nhu cầu nguồn nhân lực của các ngành Hệ thống điện, Điện tử viễn thông, Tự động hóa trong thời đại cách mạng công nghiệp 4.0 không?"
+  ],
+  "name": "cau_hoi_63"
+},{
+  "_id": "640c56e651efcd11e8058373",
+  "example": [
+    "Thầy cô cho em hỏi học phí của ngành Công nghệ thông tin là bao nhiêu và có nhiều cơ hội việc làm không ?",
+    "Cho em hỏi về chi phí đào tạo của ngành Công nghệ thông tin và khả năng tìm việc làm của ngành này?",
+    "Thầy cô có thể cho em biết chi phí học Công nghệ thông tin là bao nhiêu và ngành này có cơ hội việc làm tốt không?",
+    "Em muốn hỏi về học phí và tình hình việc làm của ngành Công nghệ thông tin. Thầy cô có thể giải đáp giúp em được không?"
+  ],
+  "name": "cau_hoi_64"
+},{
+  "_id": "640c56e651efcd11e8058374",
+  "example": [
+    "Cho em hỏi ngành Tự động hóa chương trình học có khó không ạ? Đầu ra công việc như thế nào? Nếu em muốn làm ở nhà máy nhiệt điện, thủy điện thì nên học Kỹ thuật Điện – Điện tử hay Tự động hóa ?",
+    "Em muốn hỏi về độ khó của chương trình học ngành Tự động hóa và cơ hội việc làm sau khi ra trường. Nếu muốn làm việc tại các nhà máy nhiệt điện, thủy điện thì nên học ngành Kỹ thuật Điện - Điện tử hay Tự động hóa?",
+    "Cho em hỏi chương trình học của ngành Tự động hóa có khó không và đầu ra công việc như thế nào. Nếu em có mong muốn làm việc tại nhà máy nhiệt điện, thủy điện thì nên học Kỹ thuật Điện - Điện tử hay Tự động hóa?",
+    "Em muốn tìm hiểu về khó khăn trong chương trình học của ngành Tự động hóa và cơ hội việc làm sau khi ra trường. Nếu muốn làm việc tại các nhà máy nhiệt điện, thủy điện thì em nên chọn học ngành Kỹ thuật Điện - Điện tử hay Tự động hóa?",
+    "Thầy cô cho em hỏi chương trình học của ngành Tự động hóa có độ khó cao không và đầu ra công việc như thế nào. Nếu em có mong muốn làm việc tại nhà máy nhiệt điện, thủy điện thì em nên học Kỹ thuật Điện - Điện tử hay Tự động hóa?"
+  ],
+  "name": "cau_hoi_65"
+},{
+  "_id": "640c56e651efcd11e8058375",
+  "example": [
+    "Tổng điểm 5 kì của em là 22 điểm, chưa cộng điểm vùng, thì khả năng đậu vào Điện – Điện tử, Tự động hóa có cao không ?",
+    "Em tính tổng điểm 5 kì là 22 điểm, chưa tính điểm vùng thì có đủ điều kiện để đậu vào các ngành Điện – Điện tử, Tự động hóa không?",
+    "Tổng số điểm của em sau 5 kì học là 22 điểm, chưa tính điểm vùng. Liệu em có thể trúng tuyển vào các ngành Điện – Điện tử, Tự động hóa không?",
+    "Nếu tính tổng điểm 5 kì học của em là 22 điểm, chưa bao gồm điểm vùng, thì khả năng em được nhận vào các ngành Điện – Điện tử, Tự động hóa có cao không?"
+  ],
+  "name": "cau_hoi_66"
+},{
+  "_id": "640c56e651efcd11e8058376",
+  "example": [
+    "Hiện tại em đang học ban C nhưng em lại thích học Công nghệ thông tin và Tự động hóa. Vậy em có đủ khả năng để theo học các ngành này được không ?",
+    "Em đang học ban C nhưng em lại muốn học ngành Công nghệ thông tin hoặc Tự động hóa. Liệu em có đủ năng lực để học các ngành này không?",
+    "Với việc đang học ban C, em có thể học được ngành Công nghệ thông tin và Tự động hóa không?"
+  ],
+  "name": "cau_hoi_67"
+},{
+  "_id": "640c56e651efcd11e8058377",
+  "example": [
+    "Em chưa có kiến thức cơ bản về Công nghệ thông tin thì có thể học ngành này được không ạ?",
+    "Em chưa có kiến thức về nhiều về Công nghệ thông tin thì có thể học ngành này không?",
+    "Chưa biết gì về Công nghệ thông tin thì có thể học ngành này được không ạ?",
+    "Có thể học Công nghệ thông tin khi chưa có kiến thức về lập trình không ạ?",
+    "Chưa biết lập trình thì có thể học Công nghệ thông tin được không?"
+  ],
+  "name": "cau_hoi_68"
+},{
+  "_id": "640c56e651efcd11e8058378",
+  "example": [
+    "Việc Trường ưu tiên học thực hành thì như thế nào?",
+    "Trường ưu tiên đào tạo học viên bằng phương pháp học thực hành như thế nào?",
+    "Có phải Học thực hành là một trong những ưu tiên của Trường trong việc giảng dạy?",
+    "Trường có chú trọng vào học thực hành trong chương trình giảng dạy hay không"
+  ],
+  "name": "cau_hoi_69"
+},{
+  "_id": "640c56e651efcd11e8058379",
+  "example": [
+    "Trong quá trình đi học, sinh viên có được đi thực tập tại Doanh nghiệp không?",
+    "Sinh viên có cơ hội thực tập tại các doanh nghiệp trong quá trình học không?",
+    "Trong quá trình học, có tổ chức thực tập cho sinh viên tại các doanh nghiệp không?",
+    "Thực tập tại doanh nghiệp là một phần của chương trình đào tạo không?"
+  ],
+  "name": "cau_hoi_70"
+},{
+  "_id": "640c56e651efcd11e8058380",
+  "example": [
+    "Thầy Cô có thể cho em biết thêm về các hoạt động khởi nghiệp được không?",
+    "Thầy Cô có thể giải thích thêm về các hoạt động khởi nghiệp không?",
+    "Thầy Cô có thể chia sẻ thêm về việc khởi nghiệp không?",
+    "Em muốn biết thêm về các hoạt động khởi nghiệp, thầy cô có thể hướng dẫn em được không?",
+    "Thầy cô có thể giới thiệu về các hoạt động khởi nghiệp trong trường học không?",
+    "Cho em hỏi thêm về các hoạt động khởi nghiệp được không, thầy cô?"
+  ],
+  "name": "cau_hoi_71"
+},{
+  "_id": "640c56e651efcd11e8058381",
+  "example": [
+    "Trường có những cơ hội giao lưu với các nước khác như là Nhật Bản không ạ?",
+    "Em muốn biết liệu trường có cơ hội giao lưu với các quốc gia khác, chẳng hạn như Nhật Bản hay không?",
+    "Cho em hỏi xem trường có các chương trình hợp tác quốc tế với Nhật Bản hoặc các nước khác không?",
+    "Em quan tâm đến việc trường có cơ hội hợp tác và giao lưu với các nước ngoài, đặc biệt là Nhật Bản hay không?"
+  ],
+  "name": "cau_hoi_72"
+},{
+  "_id": "640c56e651efcd11e8058382",
+  "example": [
+    "Mã trường",
+    "Mã trường mình là gì?",
+    "Trường mình có mã là gì?"
+  ],
+  "name": "cau_hoi_73"
+},{
+  "_id": "640c56e651efcd11e8058383",
+  "example": [
+    "Tình hình việc làm của sinh viên sau khi tốt nghiệp?",
+    "Khả năng tìm việc làm của sinh viên sau khi ra trường như thế nào?",
+    "Sau khi tốt nghiệp, sinh viên có nhiều cơ hội việc làm không?",
+    "Sinh viên tốt nghiệp có thể xin được việc làm dễ dàng không?"
+  ],
+  "name": "cau_hoi_74"
+},{
+  "_id": "640c56e651efcd11e8058384",
+  "example": [
+    "Ngành [Sư phạm Kỹ thuật công nghiệp](nganh) là gì?",
+    "Ngành [Công nghệ thông tin](nganh) là gì?",
+    "Ngành [Công nghệ kỹ thuật xây dựng](nganh) là gì?",
+    "Ngành [Công nghệ kỹ thuật giao thông](nganh) là gì?",
+    "Ngành [Công nghệ kỹ thuật cơ khí](nganh) là gì?",
+    "Ngành [Công nghệ kỹ thuật cơ điện tử](nganh) là gì?",
+    "Ngành [Công nghệ kỹ thuật ô tô](nganh) là gì?",
+    "Ngành [Công nghệ kỹ thuật nhiệt](nganh) là gì?",
+    "Ngành [Công nghệ kỹ thuật nhiệt](nganh) là gì?",
+    "Ngành [Công nghệ kỹ thuật điện, điện tử](nganh) là gì?",
+    "Ngành [Công nghệ kỹ thuật điện tử - viễn thông](nganh) là gì?",
+    "Ngành [Công nghệ kỹ thuật điều khiển và tự động hóa](nganh) là gì?",
+    "Ngành [Kỹ thuật cơ sở hạ tầng](nganh) là gì?",
+    "Ngành [Công nghệ kỹ thuật môi trường](nganh) là gì?",
+    "Ngành [Kỹ thuật thực phẩm](nganh) là gì?",
+    "Ngành [Công nghệ kỹ thuật kiến trúc](nganh) là gì?",
+    "Ngành [Công nghệ Kỹ thuật Hóa học](nganh) là gì?",
+    "Ngành [Robot và Trí tuệ nhân tạo](nganh) là gì?"
+  ],
+  "name": "cau_hoi_75"
+},{
+  "_id": "640c56e651efcd11e8058385",
+  "example": [
+    "[Chỉ tiêu](chi_tieu) của ngành [Sư phạm Kỹ thuật công nghiệp](nganh) là bao nhiêu?",
+    "[Chỉ tiêu](chi_tieu) của ngành [Công nghệ thông tin](nganh) là bao nhiêu?",
+    "[Chỉ tiêu](chi_tieu) của ngành [Công nghệ kỹ thuật xây dựng](nganh) là bao nhiêu?",
+    "[Chỉ tiêu](chi_tieu) của ngành [Công nghệ kỹ thuật giao thông](nganh) là bao nhiêu?",
+    "[Chỉ tiêu](chi_tieu) của ngành [Công nghệ kỹ thuật cơ khí](nganh) là bao nhiêu?",
+    "[Chỉ tiêu](chi_tieu) của ngành [Công nghệ kỹ thuật cơ điện tử](nganh) là bao nhiêu?",
+    "[Chỉ tiêu](chi_tieu) của ngành [Công nghệ kỹ thuật ô tô](nganh) là bao nhiêu?",
+    "[Chỉ tiêu](chi_tieu) của ngành [Công nghệ kỹ thuật nhiệt](nganh) là bao nhiêu?",
+    "[Chỉ tiêu](chi_tieu) của ngành [Công nghệ kỹ thuật nhiệt](nganh) là bao nhiêu?",
+    "[Chỉ tiêu](chi_tieu) của ngành [Công nghệ kỹ thuật điện, điện tử](nganh) là bao nhiêu?",
+    "[Chỉ tiêu](chi_tieu) của ngành [Công nghệ kỹ thuật điện tử - viễn thông](nganh) là bao nhiêu?",
+    "[Chỉ tiêu](chi_tieu) của ngành [Công nghệ kỹ thuật điều khiển và tự động hóa](nganh) là bao nhiêu?",
+    "[Chỉ tiêu](chi_tieu) của ngành [Kỹ thuật cơ sở hạ tầng](nganh) là bao nhiêu?",
+    "[Chỉ tiêu](chi_tieu) của ngành [Công nghệ kỹ thuật môi trường](nganh) là bao nhiêu?",
+    "[Chỉ tiêu](chi_tieu) của ngành [Kỹ thuật thực phẩm](nganh) là bao nhiêu?",
+    "[Chỉ tiêu](chi_tieu) của ngành [Công nghệ kỹ thuật kiến trúc](nganh) là bao nhiêu?",
+    "[Chỉ tiêu](chi_tieu) của ngành [Công nghệ Kỹ thuật Hóa học](nganh) là bao nhiêu?",
+    "[Chỉ tiêu](chi_tieu) của ngành [Robot và Trí tuệ nhân tạo](nganh) là bao nhiêu?",
+    "[Học phí](hoc_phi) của ngành [Sư phạm Kỹ thuật công nghiệp](nganh) là bao nhiêu?",
+    "[Học phí](hoc_phi) của ngành [Công nghệ thông tin](nganh) là bao nhiêu?",
+    "[Học phí](hoc_phi) của ngành [Công nghệ kỹ thuật xây dựng](nganh) là bao nhiêu?",
+    "[Học phí](hoc_phi) của ngành [Công nghệ kỹ thuật giao thông](nganh) là bao nhiêu?",
+    "[Học phí](hoc_phi) của ngành [Công nghệ kỹ thuật cơ khí](nganh) là bao nhiêu?",
+    "[Học phí](hoc_phi) của ngành [Công nghệ kỹ thuật cơ điện tử](nganh) là bao nhiêu?",
+    "[Học phí](hoc_phi) của ngành [Công nghệ kỹ thuật ô tô](nganh) là bao nhiêu?",
+    "[Học phí](hoc_phi) của ngành [Công nghệ kỹ thuật nhiệt](nganh) là bao nhiêu?",
+    "[Học phí](hoc_phi) của ngành [Công nghệ kỹ thuật nhiệt](nganh) là bao nhiêu?",
+    "[Học phí](hoc_phi) của ngành [Công nghệ kỹ thuật điện, điện tử](nganh) là bao nhiêu?",
+    "[Học phí](hoc_phi) của ngành [Công nghệ kỹ thuật điện tử - viễn thông](nganh) là bao nhiêu?",
+    "[Học phí](hoc_phi) của ngành [Công nghệ kỹ thuật điều khiển và tự động hóa](nganh) là bao nhiêu?",
+    "[Học phí](hoc_phi) của ngành [Kỹ thuật cơ sở hạ tầng](nganh) là bao nhiêu?",
+    "[Học phí](hoc_phi) của ngành [Công nghệ kỹ thuật môi trường](nganh) là bao nhiêu?",
+    "[Học phí](hoc_phi) của ngành [Kỹ thuật thực phẩm](nganh) là bao nhiêu?",
+    "[Học phí](hoc_phi) của ngành [Công nghệ kỹ thuật kiến trúc](nganh) là bao nhiêu?",
+    "[Học phí](hoc_phi) của ngành [Công nghệ Kỹ thuật Hóa học](nganh) là bao nhiêu?",
+    "[Học phí](hoc_phi) của ngành [Robot và Trí tuệ nhân tạo](nganh) là bao nhiêu?",
+    "[Cơ hội việc làm](co_hoi_viec_lam) của ngành [Sư phạm Kỹ thuật công nghiệp](nganh) như thế nào?",
+    "[Cơ hội việc làm](co_hoi_viec_lam) của ngành [Công nghệ thông tin](nganh) như thế nào?",
+    "[Cơ hội việc làm](co_hoi_viec_lam) của ngành [Công nghệ kỹ thuật xây dựng](nganh) như thế nào?",
+    "[Cơ hội việc làm](co_hoi_viec_lam) của ngành [Công nghệ kỹ thuật giao thông](nganh) như thế nào?",
+    "[Cơ hội việc làm](co_hoi_viec_lam) của ngành [Công nghệ kỹ thuật cơ khí](nganh) như thế nào?",
+    "[Cơ hội việc làm](co_hoi_viec_lam) của ngành [Công nghệ kỹ thuật cơ điện tử](nganh) như thế nào?",
+    "[Cơ hội việc làm](co_hoi_viec_lam) của ngành [Công nghệ kỹ thuật ô tô](nganh) như thế nào?",
+    "[Cơ hội việc làm](co_hoi_viec_lam) của ngành [Công nghệ kỹ thuật nhiệt](nganh) như thế nào?",
+    "[Cơ hội việc làm](co_hoi_viec_lam) của ngành [Công nghệ kỹ thuật nhiệt](nganh) như thế nào?",
+    "[Cơ hội việc làm](co_hoi_viec_lam) của ngành [Công nghệ kỹ thuật điện, điện tử](nganh) như thế nào?",
+    "[Cơ hội việc làm](co_hoi_viec_lam) của ngành [Công nghệ kỹ thuật điện tử - viễn thông](nganh) như thế nào?",
+    "[Cơ hội việc làm](co_hoi_viec_lam) của ngành [Công nghệ kỹ thuật điều khiển và tự động hóa](nganh) như thế nào?",
+    "[Cơ hội việc làm](co_hoi_viec_lam) của ngành [Kỹ thuật cơ sở hạ tầng](nganh) như thế nào?",
+    "[Cơ hội việc làm](co_hoi_viec_lam) của ngành [Công nghệ kỹ thuật môi trường](nganh) như thế nào?",
+    "[Cơ hội việc làm](co_hoi_viec_lam) của ngành [Kỹ thuật thực phẩm](nganh) như thế nào?",
+    "[Cơ hội việc làm](co_hoi_viec_lam) của ngành [Công nghệ kỹ thuật kiến trúc](nganh) như thế nào?",
+    "[Cơ hội việc làm](co_hoi_viec_lam) của ngành [Công nghệ Kỹ thuật Hóa học](nganh) như thế nào?",
+    "[Cơ hội việc làm](co_hoi_viec_lam) của ngành [Robot và Trí tuệ nhân tạo](nganh) như thế nào?",
+    "[Điểm chuẩn](diem_chuan) của ngành [Sư phạm Kỹ thuật công nghiệp](nganh) là bao nhiêu?",
+    "[Điểm chuẩn](diem_chuan) của ngành [Công nghệ thông tin](nganh) là bao nhiêu?",
+    "[Điểm chuẩn](diem_chuan) của ngành [Công nghệ kỹ thuật xây dựng](nganh) là bao nhiêu?",
+    "[Điểm chuẩn](diem_chuan) của ngành [Công nghệ kỹ thuật giao thông](nganh) là bao nhiêu?",
+    "[Điểm chuẩn](diem_chuan) của ngành [Công nghệ kỹ thuật cơ khí](nganh) là bao nhiêu?",
+    "[Điểm chuẩn](diem_chuan) của ngành [Công nghệ kỹ thuật cơ điện tử](nganh) là bao nhiêu?",
+    "[Điểm chuẩn](diem_chuan) của ngành [Công nghệ kỹ thuật ô tô](nganh) là bao nhiêu?",
+    "[Điểm chuẩn](diem_chuan) của ngành [Công nghệ kỹ thuật nhiệt](nganh) là bao nhiêu?",
+    "[Điểm chuẩn](diem_chuan) của ngành [Công nghệ kỹ thuật nhiệt](nganh) là bao nhiêu?",
+    "[Điểm chuẩn](diem_chuan) của ngành [Công nghệ kỹ thuật điện, điện tử](nganh) là bao nhiêu?",
+    "[Điểm chuẩn](diem_chuan) của ngành [Công nghệ kỹ thuật điện tử - viễn thông](nganh) là bao nhiêu?",
+    "[Điểm chuẩn](diem_chuan) của ngành [Công nghệ kỹ thuật điều khiển và tự động hóa](nganh) là bao nhiêu?",
+    "[Điểm chuẩn](diem_chuan) của ngành [Kỹ thuật cơ sở hạ tầng](nganh) là bao nhiêu?",
+    "[Điểm chuẩn](diem_chuan) của ngành [Công nghệ kỹ thuật môi trường](nganh) là bao nhiêu?",
+    "[Điểm chuẩn](diem_chuan) của ngành [Kỹ thuật thực phẩm](nganh) là bao nhiêu?",
+    "[Điểm chuẩn](diem_chuan) của ngành [Công nghệ kỹ thuật kiến trúc](nganh) là bao nhiêu?",
+    "[Điểm chuẩn](diem_chuan) của ngành [Công nghệ Kỹ thuật Hóa học](nganh) là bao nhiêu?",
+    "[Điểm chuẩn](diem_chuan) của ngành [Robot và Trí tuệ nhân tạo](nganh) là bao nhiêu?",
+    "[Tiêu chí](tieu_chi) xét tuyển của ngành [Sư phạm Kỹ thuật công nghiệp](nganh) là như thế nào?",
+    "[Tiêu chí](tieu_chi) xét tuyển của ngành [Công nghệ thông tin](nganh) là như thế nào?",
+    "[Tiêu chí](tieu_chi) xét tuyển của ngành [Công nghệ kỹ thuật xây dựng](nganh) là như thế nào?",
+    "[Tiêu chí](tieu_chi) xét tuyển của ngành [Công nghệ kỹ thuật giao thông](nganh) là như thế nào?",
+    "[Tiêu chí](tieu_chi) xét tuyển của ngành [Công nghệ kỹ thuật cơ khí](nganh) là như thế nào?",
+    "[Tiêu chí](tieu_chi) xét tuyển của ngành [Công nghệ kỹ thuật cơ điện tử](nganh) là như thế nào?",
+    "[Tiêu chí](tieu_chi) xét tuyển của ngành [Công nghệ kỹ thuật ô tô](nganh) là như thế nào?",
+    "[Tiêu chí](tieu_chi) xét tuyển của ngành [Công nghệ kỹ thuật nhiệt](nganh) là như thế nào?",
+    "[Tiêu chí](tieu_chi) xét tuyển của ngành [Công nghệ kỹ thuật nhiệt](nganh) là như thế nào?",
+    "[Tiêu chí](tieu_chi) xét tuyển của ngành [Công nghệ kỹ thuật điện, điện tử](nganh) là như thế nào?",
+    "[Tiêu chí](tieu_chi) xét tuyển của ngành [Công nghệ kỹ thuật điện tử - viễn thông](nganh) là như thế nào?",
+    "[Tiêu chí](tieu_chi) xét tuyển của ngành [Công nghệ kỹ thuật điều khiển và tự động hóa](nganh) là như thế nào?",
+    "[Tiêu chí](tieu_chi) xét tuyển của ngành [Kỹ thuật cơ sở hạ tầng](nganh) là như thế nào?",
+    "[Tiêu chí](tieu_chi) xét tuyển của ngành [Công nghệ kỹ thuật môi trường](nganh) là như thế nào?",
+    "[Tiêu chí](tieu_chi) xét tuyển của ngành [Kỹ thuật thực phẩm](nganh) là như thế nào?",
+    "[Tiêu chí](tieu_chi) xét tuyển của ngành [Công nghệ kỹ thuật kiến trúc](nganh) là như thế nào?",
+    "[Tiêu chí](tieu_chi) xét tuyển của ngành [Công nghệ Kỹ thuật Hóa học](nganh) là như thế nào?",
+    "[Tiêu chí](tieu_chi) xét tuyển của ngành [Robot và Trí tuệ nhân tạo](nganh) là như thế nào?",
+    "[Mã](ma) của ngành [Sư phạm Kỹ thuật công nghiệp](nganh) là gì?",
+    "[Mã](ma) của ngành [Công nghệ thông tin](nganh) là gì?",
+    "[Mã](ma) của ngành [Công nghệ kỹ thuật xây dựng](nganh) là gì?",
+    "[Mã](ma) của ngành [Công nghệ kỹ thuật giao thông](nganh) là gì?",
+    "[Mã](ma) của ngành [Công nghệ kỹ thuật cơ khí](nganh) là gì?",
+    "[Mã](ma) của ngành [Công nghệ kỹ thuật cơ điện tử](nganh) là gì?",
+    "[Mã](ma) của ngành [Công nghệ kỹ thuật ô tô](nganh) là gì?",
+    "[Mã](ma) của ngành [Công nghệ kỹ thuật nhiệt](nganh) là gì?",
+    "[Mã](ma) của ngành [Công nghệ kỹ thuật nhiệt](nganh) là gì?",
+    "[Mã](ma) của ngành [Công nghệ kỹ thuật điện, điện tử](nganh) là gì?",
+    "[Mã](ma) của ngành [Công nghệ kỹ thuật điện tử - viễn thông](nganh) là gì?",
+    "[Mã](ma) của ngành [Công nghệ kỹ thuật điều khiển và tự động hóa](nganh) là gì?",
+    "[Mã](ma) của ngành [Kỹ thuật cơ sở hạ tầng](nganh) là gì?",
+    "[Mã](ma) của ngành [Công nghệ kỹ thuật môi trường](nganh) là gì?",
+    "[Mã](ma) của ngành [Kỹ thuật thực phẩm](nganh) là gì?",
+    "[Mã](ma) của ngành [Công nghệ kỹ thuật kiến trúc](nganh) là gì?",
+    "[Mã](ma) của ngành [Công nghệ Kỹ thuật Hóa học](nganh) là gì?",
+    "[Mã](ma) của ngành [Robot và Trí tuệ nhân tạo](nganh) là gì?",
+    "[Tổ hợp xét tuyển](to_hop_xet_tuyen) của ngành [Sư phạm Kỹ thuật công nghiệp](nganh) là gì?",
+    "[Tổ hợp xét tuyển](to_hop_xet_tuyen) của ngành [Công nghệ thông tin](nganh) là gì?",
+    "[Tổ hợp xét tuyển](to_hop_xet_tuyen) của ngành [Công nghệ kỹ thuật xây dựng](nganh) là gì?",
+    "[Tổ hợp xét tuyển](to_hop_xet_tuyen) của ngành [Công nghệ kỹ thuật giao thông](nganh) là gì?",
+    "[Tổ hợp xét tuyển](to_hop_xet_tuyen) của ngành [Công nghệ kỹ thuật cơ khí](nganh) là gì?",
+    "[Tổ hợp xét tuyển](to_hop_xet_tuyen) của ngành [Công nghệ kỹ thuật cơ điện tử](nganh) là gì?",
+    "[Tổ hợp xét tuyển](to_hop_xet_tuyen) của ngành [Công nghệ kỹ thuật ô tô](nganh) là gì?",
+    "[Tổ hợp xét tuyển](to_hop_xet_tuyen) của ngành [Công nghệ kỹ thuật nhiệt](nganh) là gì?",
+    "[Tổ hợp xét tuyển](to_hop_xet_tuyen) của ngành [Công nghệ kỹ thuật nhiệt](nganh) là gì?",
+    "[Tổ hợp xét tuyển](to_hop_xet_tuyen) của ngành [Công nghệ kỹ thuật điện, điện tử](nganh) là gì?",
+    "[Tổ hợp xét tuyển](to_hop_xet_tuyen) của ngành [Công nghệ kỹ thuật điện tử - viễn thông](nganh) là gì?",
+    "[Tổ hợp xét tuyển](to_hop_xet_tuyen) của ngành [Công nghệ kỹ thuật điều khiển và tự động hóa](nganh) là gì?",
+    "[Tổ hợp xét tuyển](to_hop_xet_tuyen) của ngành [Kỹ thuật cơ sở hạ tầng](nganh) là gì?",
+    "[Tổ hợp xét tuyển](to_hop_xet_tuyen) của ngành [Công nghệ kỹ thuật môi trường](nganh) là gì?",
+    "[Tổ hợp xét tuyển](to_hop_xet_tuyen) của ngành [Kỹ thuật thực phẩm](nganh) là gì?",
+    "[Tổ hợp xét tuyển](to_hop_xet_tuyen) của ngành [Công nghệ kỹ thuật kiến trúc](nganh) là gì?",
+    "[Tổ hợp xét tuyển](to_hop_xet_tuyen) của ngành [Công nghệ Kỹ thuật Hóa học](nganh) là gì?",
+    "[Tổ hợp xét tuyển](to_hop_xet_tuyen) của ngành [Robot và Trí tuệ nhân tạo](nganh) là gì?",
+    "[Chương trình đào tạo](chuong_trinh_dao_tao) của ngành [Sư phạm Kỹ thuật công nghiệp](nganh) là gì?",
+    "[Chương trình đào tạo](chuong_trinh_dao_tao) của ngành [Công nghệ thông tin](nganh) là gì?",
+    "[Chương trình đào tạo](chuong_trinh_dao_tao) của ngành [Công nghệ kỹ thuật xây dựng](nganh) là gì?",
+    "[Chương trình đào tạo](chuong_trinh_dao_tao) của ngành [Công nghệ kỹ thuật giao thông](nganh) là gì?",
+    "[Chương trình đào tạo](chuong_trinh_dao_tao) của ngành [Công nghệ kỹ thuật cơ khí](nganh) là gì?",
+    "[Chương trình đào tạo](chuong_trinh_dao_tao) của ngành [Công nghệ kỹ thuật cơ điện tử](nganh) là gì?",
+    "[Chương trình đào tạo](chuong_trinh_dao_tao) của ngành [Công nghệ kỹ thuật ô tô](nganh) là gì?",
+    "[Chương trình đào tạo](chuong_trinh_dao_tao) của ngành [Công nghệ kỹ thuật nhiệt](nganh) là gì?",
+    "[Chương trình đào tạo](chuong_trinh_dao_tao) của ngành [Công nghệ kỹ thuật nhiệt](nganh) là gì?",
+    "[Chương trình đào tạo](chuong_trinh_dao_tao) của ngành [Công nghệ kỹ thuật điện, điện tử](nganh) là gì?",
+    "[Chương trình đào tạo](chuong_trinh_dao_tao) của ngành [Công nghệ kỹ thuật điện tử - viễn thông](nganh) là gì?",
+    "[Chương trình đào tạo](chuong_trinh_dao_tao) của ngành [Công nghệ kỹ thuật điều khiển và tự động hóa](nganh) là gì?",
+    "[Chương trình đào tạo](chuong_trinh_dao_tao) của ngành [Kỹ thuật cơ sở hạ tầng](nganh) là gì?",
+    "[Chương trình đào tạo](chuong_trinh_dao_tao) của ngành [Công nghệ kỹ thuật môi trường](nganh) là gì?",
+    "[Chương trình đào tạo](chuong_trinh_dao_tao) của ngành [Kỹ thuật thực phẩm](nganh) là gì?",
+    "[Chương trình đào tạo](chuong_trinh_dao_tao) của ngành [Công nghệ kỹ thuật kiến trúc](nganh) là gì?",
+    "[Chương trình đào tạo](chuong_trinh_dao_tao) của ngành [Công nghệ Kỹ thuật Hóa Chương trình đào tạo của](nganh) là gì?",
+    "[Chương trình đào tạo](chuong_trinh_dao_tao) của ngành [Robot và Trí tuệ nhân tạo](nganh) là gì?"
+  ],
+  "name": "cau_hoi_76"
+},{
+  "_id": "640c56e651efcd11e8058386",
+  "example": [
+    "Có nên học ngành [Sư phạm Kỹ thuật công nghiệp](nganh) không?",
+    "Có nên học ngành [Công nghệ thông tin](nganh) không?",
+    "Có nên học ngành [Công nghệ kỹ thuật xây dựng](nganh) không?",
+    "Có nên học ngành [Công nghệ kỹ thuật giao thông](nganh) không?",
+    "Có nên học ngành [Công nghệ kỹ thuật cơ khí](nganh) không?",
+    "Có nên học ngành [Công nghệ kỹ thuật cơ điện tử](nganh) không?",
+    "Có nên học ngành [Công nghệ kỹ thuật ô tô](nganh) không?",
+    "Có nên học ngành [Công nghệ kỹ thuật nhiệt](nganh) không?",
+    "Có nên học ngành [Công nghệ kỹ thuật nhiệt](nganh) không?",
+    "Có nên học ngành [Công nghệ kỹ thuật điện, điện tử](nganh) không?",
+    "Có nên học ngành [Công nghệ kỹ thuật điện tử - viễn thông](nganh) không?",
+    "Có nên học ngành [Công nghệ kỹ thuật điều khiển và tự động hóa](nganh) không?",
+    "Có nên học ngành [Kỹ thuật cơ sở hạ tầng](nganh) không?",
+    "Có nên học ngành [Công nghệ kỹ thuật môi trường](nganh) không?",
+    "Có nên học ngành [Kỹ thuật thực phẩm](nganh) không?",
+    "Có nên học ngành [Công nghệ kỹ thuật kiến trúc](nganh) không?",
+    "Có nên học ngành [Công nghệ Kỹ thuật Hóa học](nganh) không?",
+    "Có nên học ngành [Robot và Trí tuệ nhân tạo](nganh) không?"
+  ],
+  "name": "cau_hoi_77"
+},{
+  "_id": "640c56e651efcd11e8058387",
+  "example": [
+    "Học ngành [Sư phạm Kỹ thuật công nghiệp](nganh) có khó không?",
+    "Học ngành [Công nghệ thông tin](nganh) có khó không?",
+    "Học ngành [Công nghệ kỹ thuật xây dựng](nganh) có khó không?",
+    "Học ngành [Công nghệ kỹ thuật giao thông](nganh) có khó không?",
+    "Học ngành [Công nghệ kỹ thuật cơ khí](nganh) có khó không?",
+    "Học ngành [Công nghệ kỹ thuật cơ điện tử](nganh) có khó không?",
+    "Học ngành [Công nghệ kỹ thuật ô tô](nganh) có khó không?",
+    "Học ngành [Công nghệ kỹ thuật nhiệt](nganh) có khó không?",
+    "Học ngành [Công nghệ kỹ thuật nhiệt](nganh) có khó không?",
+    "Học ngành [Công nghệ kỹ thuật điện, điện tử](nganh) có khó không?",
+    "Học ngành [Công nghệ kỹ thuật điện tử - viễn thông](nganh) có khó không?",
+    "Học ngành [Công nghệ kỹ thuật điều khiển và tự động hóa](nganh) có khó không?",
+    "Học ngành [Kỹ thuật cơ sở hạ tầng](nganh) có khó không?",
+    "Học ngành [Công nghệ kỹ thuật môi trường](nganh) có khó không?",
+    "Học ngành [Kỹ thuật thực phẩm](nganh) có khó không?",
+    "Học ngành [Công nghệ kỹ thuật kiến trúc](nganh) có khó không?",
+    "Học ngành [Công nghệ Kỹ thuật Hóa học](nganh) có khó không?",
+    "Học ngành [Robot và Trí tuệ nhân tạo](nganh) có khó không?"
+  ],
+  "name": "cau_hoi_78"
+}]

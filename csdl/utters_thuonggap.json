@@ -1,0 +1,336 @@
+[{
+  "_id": "640c56e651efcd11e8058310",
+  "intent": "cau_hoi_1",
+  "utter_name": "utter_cau_hoi_1",
+  "utter": "Ngành Công nghệ Kỹ thuật Điện – Điện tử gồm 2 chuyên ngành: chuyên ngành Kỹ thuật Điện – Điện tử và chuyên ngành Hệ thống cung cấp điện. Chuyên ngành Kỹ thuật Điện – Điện tử sẽ cung cấp cho các em kiến thức và kỹ năng chuyên sâu về lĩnh vực điện – điện tử và ứng dụng kỹ thuật Điện – Điện tử trong các lĩnh vực của đời sống xã hội. Chuyên ngành Hệ thống cung cấp điện sẽ cung cấp cho các em kiến thức và kỹ năng chuyên sâu của lĩnh vực cung cấp điện, truyền tải điện, tạo cơ hội tìm kiếm việc làm có liên quan đến các ngành trên."
+},{
+  "_id": "640c56e651efcd11e8058311",
+  "intent": "cau_hoi_2",
+  "utter_name": "utter_cau_hoi_2",
+  "utter": "Chuyên ngành Hệ thống cung câp điện có liên quan đến tất cả các lĩnh vực sử dụng điện năng trong đời sống sinh hoạt hằng ngày. Khi các em đã trang bị các kiến thức và kỹ năng cần thiết thì các em sẽ được làm việc tại các vị trí như chuyên viên kỹ thuật, thiết kế giám sát, điều dưỡng các hệ thống điện trong các khu công nghiệp, nhà máy, xí nghiệp, các cao ốc,văn phòng, công ty điện lực, các nhà máy cấp phát điện. Đặc biệt ở khu vực miền Trung Tây Nguyên phát triển mạnh mẽ các hệ thống năng lượng tái tạo như năng lượng từ gió… mở ra cơ hội việc làm rất lớn cho các em học chuyên ngành này. Ngoài ra, các em có thể trở thành quản lý, giám sát hệ thống cung cấp điện trong các nhà máy hoặc có thể học Thạc sĩ, Tiến sĩ để trở thành chuyên gia lĩnh vực điện để làm việc trong phòng nghiên cứu của các công ty đa quốc gia hoặc trở thành giảng viên chuyên ngành Hệ thống cung cấp điện trong các trường chuyên về kỹ thuật điện. Hoặc có thể tự mở cơ sở sản xuất kinh doanh, dịch vụ về kỹ thuật điện. Các công ty lớn như Trường Hải, Doosan, Hòa Phát cũng có nhu cầu tuyển dụng rất lớn các kỹ sư kỹ thuật điện hiện nay."
+},{
+  "_id": "640c56e651efcd11e8058312",
+  "intent": "cau_hoi_3",
+  "utter_name": "utter_cau_hoi_3",
+  "utter": "Hoạt động tự học của sinh viên gắn liền với sự hướng dẫn của giảng viên. Việc tự học diễn ra trong 2 phạm vi: tự học trên lớp và tự học ngoài giờ lên lớp. Việc tự học là quá trình các em tư duy độc lập, tự khám phá và sáng tạo. Nếu các em vào học ngành Công nghệ thông tin nói riêng và các ngành khác của trường Đại học Sư phạm Kỹ thuật nói riêng, các em sẽ được trang bị các kỹ năng lập trình và từ đó sẽ yên tâm hơn khi tiếp cận các kỹ năng khác."
+},{
+  "_id": "640c56e651efcd11e8058313",
+  "intent": "cau_hoi_4",
+  "utter_name": "utter_cau_hoi_4",
+  "utter": "Về thông tin tuyển sinh cũng như thông tin về điểm trúng tuyển năm vừa rồi các em có thể tham khảo trên trang tuyển sinh của nhà trường. Về xu hướng điểm của các ngành Điện – điện tử, Điện tử viễn thông nhìn chung ổn định ở mức 16 đến 18 điểm. Tuy nhiên, 2 ngành Công nghệ thông tin và Công nghệ kỹ thuật Tự động hóa thì xu hướng điểm của năm 2020 so với năm 2019 tăng từ 2 đến 3 điểm, khoảng 22 đến 24 điểm. Căn cứ vào sức học, sở thích đam mê của bản thân để tìm ngành đăng kí thích hợp. Với số điểm của em, tôi nghĩ rất là tốt, nếu có thêm điểm ưu tiên, em có thể nộp hồ sơ vào tất cả các ngành tuyển sinh không chỉ của Khoa Điện – Điện tử mà nộp vào các ngành khác của trường. Tuy nhiên, tùy thuộc vào số lượng thí sinh đăng kí mỗi năm, cấu trúc đề… mức điểm có thể chêch lệch. Nhưng với mức điểm của em, tôi nghĩ khả năng trúng tuyển rất cao khi xét tuyển vào các ngành của Khoa Điện – Điện tử."
+},{
+  "_id": "640c56e651efcd11e8058314",
+  "intent": "cau_hoi_5",
+  "utter_name": "utter_cau_hoi_5",
+  "utter": "Dịch Covid-19 ảnh hưởng đến toàn cầu, trong đó có cả lĩnh vực về Công nghệ thông tin, đặc biệt là về tài chính của các tổ chức công ty. Tuy nhiên, việc này lại mở ra một hướng khác chuyên sâu hơn về lĩnh vực Công nghệ thông tin; chuyên phục vụ các lĩnh vực làm việc từ xa như thương mại điện tử, dịch vụ về OTT như voice, chat; các lĩnh vực phục vụ khách hàng từ xa như khám chữa bệnh từ xa… các lĩnh vực đó phát triển cực kì mạnh mẽ. Các doanh nghiệp lớn như VNPT… tháng nào cũng có nhu cầu tuyển dụng nhân lực về Công nghệ thông tin. Ngoài ra, với sự phát triển không ngừng của thời đại kỷ nguyên số như hiện nay thì nhu cầu nhân lực Công nghệ thông tin là luôn luôn có."
+},{
+  "_id": "640c56e651efcd11e8058315",
+  "intent": "cau_hoi_6",
+  "utter_name": "utter_cau_hoi_6",
+  "utter": "Mức lương thực tế của các em phục thuộc rất nhiều vào năng lực, kiến thức của các em trong quá trình học tập chuyên sâu và tích cực có định hướng sớm, có kỹ năng thực tế tốt. Mức lương mang tính chất ước chừng cho sinh viên của ngành Kỹ thuật điện tử viễn thông mới ra trường, có mức độ kỹ năng căn bản, không cần đào tạo từ đầu nhưng vẫn chưa có kinh nghiệm nhiều thì trung bình tổng mức thu nhập tầm 100 triệu đồng/năm. Điều kiện tuyển dụng của công ty Vifatech thì cần các em có kỹ năng chuyên sâu về lĩnh vực tự động hóa, phần mềm IOT, kỹ năng liên quan đến thiết kế tủ điện, các kỹ năng sử dụng phần mềm AUTOCAD, lập trình phần mềm… Tuy nhiên, theo tôi kỹ năng quan trọng nhất mà các em cần có là kỹ năng lập kế hoạch và kỹ năng tự học. Việc học trên trường chỉ đáp ứng một phần nhỏ của công việc. Việc tự học sẽ giúp các em trau dồi thêm nhiều kiến thức mới, luôn chuẩn bị cho bản thân tâm thế thay đổi trong thời đại kỷ nguyên số để có thể có cơ học làm việc trong các ngành khác trong tương lai."
+},{
+  "_id": "640c56e651efcd11e8058316",
+  "intent": "cau_hoi_7",
+  "utter_name": "utter_cau_hoi_7",
+  "utter": "Ngành Công nghệ Thông tin hiện nay vẫn xét học bạ, chỉ tiêu: 130 chỉ tiêu gồm học bạ và xét tốt nghiệp THPT. Hiện nay, Công nghệ Thông tin là nền tảng chủ yếu cho cuộc Cách mạng Công nghiệp 4.0. Chúng ta thấy rằng, mọi hệ thống hiện nay trong cơ quan, nhà máy xí nghiệp có sự chuyển đổi số từ thế giới thực thành thế giới số thì nhu cầu rất cấp thiết. Vì con người có thể điều khiển, kết nối tự động; có thể ngồi ở nhà và điều khiển được các máy móc từ xa. Như vậy, theo các chuyên gia đánh giá thì nhu cầu trong 5 đến 10 năm tới thì nhu cầu nhân lực Công nghệ Thông tin và các ngành liên quan đến Công nghệ Thông tin thì nguồn nhân lực cần 400.000 người, nhưng hiện nay sinh viên ngành Công nghệ Thông tin tốt nghiệp hằng năm khoảng 32.000. Như vậy, qua sự phân tích của các chuyên gia thì sự thiếu hụt nguồn nhân lực Công nghệ Thông tin hiện nay rất cao. Nhưng, để học ngành Công nghệ Thông tin thì đòi hỏi người học phải có tư duy lập trình, viết thuật toán… Các em xem xét khả năng mình có đáp ứng được về lập trình và tư duy sáng tạo trong ngành Công nghệ Thông tin, vì nếu trong phần lập trình, em không có tư duy, không có kiến thức về lập trình thì sẽ không thành công. ĐHSPKT là Trường có uy tín để các em có thể tham gia học tập. Năm nay, nhà trường dành 75 chỉ tiêu cho việc xét tuyển theo phương thức thi THPT, 42 chỉ tiêu cho phương thức xét học bạ, 13 chỉ tiêu cho phương thức sử dụng kết quả Kỳ thi đánh giá năng lực của Đại học Quốc gia Thành phố Hồ Chí Minh. Ngành Công nghệ Thông tin cảu Trường có điểm trúng tuyển, xét tuyển rất cao, ví dụ: năm ngoái điểm trung tuyển theo phương thức học bạ có điểm chuẩn gần 24đ, cho nên quý phụ huynh cùng các em học sinh cần phải xem xét, cân nhắc kỹ trong việc chọn các nguyện vọng để nộp vào đăng ký xét tuyển."
+},{
+  "_id": "640c56e651efcd11e8058317",
+  "intent": "cau_hoi_8",
+  "utter_name": "utter_cau_hoi_8",
+  "utter": "Ngành Công nghệ Vật liệu giúp cho việc xuất khẩu nguồn tài nguyên, khoáng sản thô được hạn chế mà thay vào đó là chúng ta sẽ sử dụng các nguồn tài nguyên, vật liệu, khoáng sản của đất nước hợp lý và hiệu quả hơn. Ngoài ra, ngành này giúp tăng giá trị kinh tế và tạo việc làm cho người dân. Như vậy, ngành Công nghệ Vật liệu là ngành rất cần thiết trong thực tế, giúp rút ngắn tiến trình Công nghiệp hóa – Hiện đại hóa đất nước. Ngành Công nghệ Vật liệu của Khoa Công nghệ Hóa học – Môi trường thì các em sẽ được trang bị các kiến thức cơ bản về hóa học, và các kiến thức nền tảng về các chuyên ngành sâu hơn như Công nghệ sản xuất vật liệu polime: sơn, cao su, nhựa, giấy, vải, sợi..vv. Công nghệ sản xuất vật liệu silicat như gốm sứ, xi măng và các vật liệu chịu lửa như thủy tinh… Ngoài ra, các em cũng được học các kiến thức về hóa hữu cơ, vô cơ như mỹ phẩm, tinh dầu, phân bón; các sản phẩm tiêu dùng hằng ngày như kem đánh răng, nước rửa tay; các vật liệu tiên tiến như nano, composite… Với chương trình đào tạo chuẩn mực, đội ngũ giảng viên nhiều kinh nghiệm, nhiệt huyết, môi trường học tập thân thiện, cơ sở vật chất thuận lợi, đặc biệt là cộng với sự nỗ lực của các em sinh viên thì khi các em tốt nghiệp ra trường sẽ là những công dân ưu tú, giỏi nghề và hoàn toàn có khả năng tìm kiếm việc làm, có thể là cán bộ kỹ thuật hay là cán bộ quản lý, nghiên cứu viên ở các viện, các trung tâm về phân tích kiểm tra chất lượng của vật liệu. Ngoài ra, các em cũng có thể là giảng viên của các trường Đại học. Đây là ngành rất có tương lai."
+},{
+  "_id": "640c56e651efcd11e8058318",
+  "intent": "cau_hoi_9",
+  "utter_name": "utter_cau_hoi_9",
+  "utter": "Theo quy chế đào tạo hiện hành, người học được phép học cùng lúc hai chương trình. Để học cùng lúc 2 chương trình thì ngành đào tạo chính ở chương trình thứ hai khác với ngành đào tạo chính ở chương trình thứ nhất. Sau khi kết thúc học kỳ thứ nhất, năm học đầu tiên của chương trình thứ nhất, sinh viên không thuộc diện xếp hạng học lực yếu; trong quá trình học cùng lúc 2 chương trình, nếu điểm trung bình chung học kỳ dưới 2 thì phải dừng học thêm chương trình thứ 2 ở học kỳ tiếp theo và khi học 2 chương trình thì có một số môn học mà em đã học và tích lũy ở chương trình thứ nhất có nội dung, kiến thức tương đương trong chương trình thứ nhất thì được bảo lưu điểm trong chương trình thứ hai. Sinh viên chỉ được tốt nghiệp chương trình thứ hai nếu có đủ điều kiện tốt nghiệp ở chương trình thứ nhất. Đối với câu hỏi thứ hai: Em đang học Đại học Ngoại ngữ và muốn học thêm một bằng tại Trường Đại học Sư phạm Kỹ thuật thì em hãy liên hệ trực tiếp đến Phòng Đào tạo của trường để được giải đáp, tư vấn một cách cụ thể."
+},{
+  "_id": "640c56e651efcd11e8058319",
+  "intent": "cau_hoi_10",
+  "utter_name": "utter_cau_hoi_10",
+  "utter": "Khoa Cơ khí có hai ngành Đào tạo có thể liên quan trực tiếp tới việc hỗ trợ cho sau này của em tại gia đình đó là ngành Công nghệ Kỹ thuật ô tô và ngành Công nghệ Kỹ thuật Cơ khí chế tạo. Nếu như em theo học cả hai ngành này thì sẽ hỗ trợ cho em rất nhiều trong công việc sau khi tốt nghiệp ra trường. Trong quá trình đào tạo, ngành Công nghệ Kỹ thuật ô tô, các em sẽ được các thầy cô hướng dẫn, giảng dạy, đào tạo cho các em các kiến thức, ngoài các phần lý thuyết chuyên môn thì các em có thể tiếp cận trực tiếp đến các học phần có thể liên quan đến công việc của em trong việc hỗ trợ gara ở nhà. Ví dụ như: bảo trì, bảo dưỡng, sửa chửa, lắp đặt các hệ thống ô tô gầm, khung gầm, điện, tự động hóa, kể cả các lĩnh vực liên quan khác có liên quan đến ngành ô tô như cơ khí, tự động hóa, điện tử, ngành nhiệt… Tất cả những chuyên môn đó đều hỗ trợ em rất nhiều. Bên cạnh đó, học phần Cơ khí chế tạo sẽ có nhiều kiến thức chuyên môn hỗ trợ em về bảo trì, bảo dưỡng, sửa chữa, lắp ráp… Thậm chí, có thể hỗ trợ các phần mềm để em có thể thiết kế những bản vẽ chế tạo không chỉ riêng Gara nhà mình mà có thể đi làm ở các cơ quan, nhà máy, xí nghiệp liên quan đến lĩnh vực ô tô. Em có thể tìm hiểu thêm trên trang Web của Khoa Cơ khí cũng như trang Web của Trường Đại học Sư phạm Kỹ thuật."
+},{
+  "_id": "640c56e651efcd11e8058320",
+  "intent": "cau_hoi_11",
+  "utter_name": "utter_cau_hoi_11",
+  "utter": "Trường Đại học Sư phạm Kỹ thuật thuộc Đại học Đà Nẵng là trường công lập, nên việc thu học phí bao nhiêu đều theo quy định của Nhà nước. Việc tăng học phí cũng theo lộ trình quy dịnh của Nhà nước. Đồng thời, theo quy định thì mỗi năm trường chỉ tăng tối đa 10%, hiện nay, mức học phí của Trường là 11.700.000đ/ 1 năm học. Năm học 2020-2021 cũng sẽ như vậy, chúng tôi có những chính sách khác như: học bổng, các sinh viên gia đình chính sách xã hội, hoàn cảnh khó khăn… cũng theo quy định của nhà nước."
+},{
+  "_id": "640c56e651efcd11e8058321",
+  "intent": "cau_hoi_12",
+  "utter_name": "utter_cau_hoi_12",
+  "utter": "Khi em nộp hồ sơ sẽ được phát luôn phiếu điền vào ngành mình yêu thích; lợi thế của ngành Sư phạm Công nghiệp là các em sẽ được miễn hoàn toàn học phí. Đồng thời, các em cũng có cơ hội nhận học bổng như những sinh viên trong Trường. Theo Luật Giáo dục sửa đổi, bổ sung có hiệu lực từ 01/7/2020 thì các em học khối ngành sư phạm cũng có thể nhận thêm sinh hoạt phí cho 1 tháng là 3.600.000đ. Đây là những lợi thế của ngành Sư phạm Kỹ thuật Công nghiệp."
+},{
+  "_id": "640c56e651efcd11e8058322",
+  "intent": "cau_hoi_13",
+  "utter_name": "utter_cau_hoi_13",
+  "utter": "Kỹ sư Cơ khí sau khi ra trường sẽ được làm việc tại các phòng thiết kế kỹ thuật, viện nghiên cứu, nhà máy, công ty cơ khí. Kỹ sư cơ khí sẽ đảm nhận những công việc như sản suất, lắp ráp, vận hành, bảo dưỡng các thiết bị cơ khí, máy và dây chuyền các thiết bị công nghiệp. Ngoài ra, còn đảm trách những công việc như: thiết kế, lên bản vẽ các loại máy móc, các thiết bị cơ khí cho sản xuất như máy thu hoạch, dây chuyền sản xuất đồ hộp, đóng chai, vật liệu xây dựng… Các em có thể tham gia thiết các sản phẩm cơ khí và tham gia giám sát quá trình sản xuất các thiết bị đó. Công việc này yêu cầu các em phải có kiến thức về ngành gia công chế tạo máy và đồ học chuyên ngành. Ngoài ra, các em có thể tham gia thi công và giám sát việc thi công máy móc thiết bị dây chuyền sản xuất ở các công trình nhà máy nhiệt điện, thủy điện, xi măng, nhà máy bia… và tham gia vào các công đoạn của ngành cơ khí như: đúc, rèn, dập, bào, khoan, tiện trên các máy CNC đa năng. Thực hiện việc vận hành bảo trì, bảo dưỡng, sửa chửa các máy móc thiết bị của ngành cơ khí."
+},{
+  "_id": "640c56e651efcd11e8058323",
+  "intent": "cau_hoi_14",
+  "utter_name": "utter_cau_hoi_14",
+  "utter": "Ngành này thuộc Khoa Điện- điện tử và trang bị cho các em các giải pháp về điện - điện năng, khai thác vận hành bảo trì các thiết bị điện, điện tử, khí cụ điện, hệ thống truyền động… Hệ thống chiếu sáng, hệ thống điện mặt trời là những kiến thức chuyên ngành và nhu cầu trong cuộc sống rất cao. Sau khi tốt nghiệp, cơ hội việc làm ở những xí nghiệp, khu chế xuất, các đơn vị điện tự động hóa…Hiện nay, Khoa Điện - Điện tử có liên kết với các doanh nghiệp bên ngoài như Công ty Điện lực và nhu cầu tuyển dụng rất cao. Tuy nhiên, số lượng tuyển sinh năm nay chỉ có 80 chỉ tiêu nên các em nên cân nhắc lựa chọn đúng ngành nghề của mình."
+},{
+  "_id": "640c56e651efcd11e8058324",
+  "intent": "cau_hoi_15",
+  "utter_name": "utter_cau_hoi_15",
+  "utter": "Nhà trường có Ký túc xá gần 1000 chỗ và gần trường nên mùa mưa bão các em chỉ đi một đọạn ngắn là đến trường. Ký túc xá cũng gần đồn Công an nên các em yên tâm về vấn đề an ninh trật tự. Việc đăng ký Ký túc xá cũng cần được xét chọn, ưu tiên những em ở xa, con em các gia đình diện chính sách, gia đình hộ nghèo, cận nghèo... Vì vậy sau khi trúng tuyển, các em nhanh chóng làm thủ tục nhập học, trình các giấy tờ hợp lệ, nhà trường sẽ xem xét. Em nào nộp hồ sơ sớm và nhanh hơn thì có thể đăng ký ở Ký túc xá. Trường Đại học Sư phạm Kỹ thuật theo định hướng đào tạo thực hành ứng dụng, nên có 40% trong tổng số môn học dành cho thực hành. Ngoài ra, trong tất cả các chuyên ngành đều có Học kỳ doanh nghiệp từ 3 đến 6 tháng, sinh viên sẽ đến Doanh nghiệp thực tập, làm đồ án tốt nghiệp để nâng cao kiến thức, giao tiếp xã hội và nếu em thực tập tốt, khả năng ra trường sau này em được tuyển dụng vào đó là rất cao."
+},{
+  "_id": "640c56e651efcd11e8058325",
+  "intent": "cau_hoi_16",
+  "utter_name": "utter_cau_hoi_16",
+  "utter": "Hợp tác với doanh nghiệp để sinh viên được tuyển dụng là công việc được trường đầu tư công sức để phát triển. Trong quá trình học, các em bắt buộc phải có Học kỳ Doanh nghiệp, đi thực tập doanh nghiệp trong khoảng thời gian từ 3 đến 6 tháng để giới thiệu sinh viên đến các Doanh nghiệp. Ngoài ra, nhà trường còn liên kết với các đối tác nước ngoài ở Nhật Bản, đây là nước có nhu cầu tuyển dụng rất cao. Nhà trường thông qua các Doanh nghiệp giới thiệu đến các em học thêm các lớp tiếng Nhật miễn phí để các em có cơ hội tiếp cận làm việc với các Doanh nghiệp Nhật Bản. Nhà trường đã thành lập Câu lạc bộ Sáng tạo và Khởi nghiệp, mời các CEO có kinh nghiệm về khởi nghiệp dạy cho các em sinh viên nhiều hoạt động khỏi nghiệp, nghiên cứu khoa học….giúp các em thể hiện đam mê sáng tạo của mình thiết kế các sản phẩm mang tính ứng dụng. Trong thời gian qua, các em sinh viên của nhà trường đã tham gia các cuộc thi và được cộng đồng cũng như Doanh nghiệp đánh giá rất cao tính sáng tạo, ứng dụng trong thực tiễn."
+},{
+  "_id": "640c56e651efcd11e8058326",
+  "intent": "cau_hoi_17",
+  "utter_name": "utter_cau_hoi_17",
+  "utter": "Ngành Thực phẩm sẽ có kiến thức cho em về thực phẩm, chế biến thực phẩm và có rất nhiều cơ hội tìm kiếm việc làm ở các cơ sở sản xuất chế biến nông sản thực phẩm. Ở Đà Nẵng và miền Trung có nhà máy sữa, nhà máy bia, nước giải khát, bánh kẹo, nhà máy đường Quảng Ngãi… Ngoài ra, các em có thể làm việc ở các tỉnh trong miền Nam. Điều quan trọng, trong quá trình học tập, bên cạnh kiến thức các em còn rèn luyện kỹ năng ngoại ngữ thì ra trường khả năng tìm việc của các em sẽ dễ dàng hơn."
+},{
+  "_id": "640c56e651efcd11e8058327",
+  "intent": "cau_hoi_18",
+  "utter_name": "utter_cau_hoi_18",
+  "utter": "Trường tọa lạc tại trung tâm Thành phố, số 48 đường Cao Thắng, nên rất thuận tiện cho các em đi làm thêm. Việc làm thêm được cho phép vào ngoài giờ học để phụ thêm học phí cho gia đình, tuy nhiên việc chính vẫn là tập trung học tập để đủ điều kiện tốt nghiệp. Trường có nhiều hoạt động của Đoàn thanh niên và Hội sinh viên, thậm chí trường còn xây dựng thêm thang điểm để tính điểm tham gia hoạt động Đoàn, Hội vào thành tích của các em. Trường có các hoạt động như Mùa hè xanh, hiến máu nhân đạo, tham gia vào các trạm giám sát cửa ngõ ra vào của thành phố trong đợt Covid vừa qua. Trường có học bổng toàn phần dành cho những em có thành tích học tập tốt đồng thời năng nổ tham gia trong các hoạt động Đoàn, Hội của nhà trường."
+},{
+  "_id": "640c56e651efcd11e8058328",
+  "intent": "cau_hoi_19",
+  "utter_name": "utter_cau_hoi_19",
+  "utter": "Đối với xét tuyển bằng học bạ thì mỗi ngành sẽ có những tổ hợp xét tuyển riêng, và thông thường một ngành xét tuyển sẽ có 4 tổ hợp, ví dụ: Toán – Lý - Hóa; Toán – Lý - Anh; Toán – Hóa - Sinh; Toán – Anh - Văn. Đối với từng tổ hợp này em có thể xem tổ hợp nào mình có điểm tổng 3 môn cao nhất để xét tuyển. Trường Đại học Sư phạm Kỹ thuật có nhiều đối tác nước ngoài tại Nhật Bản, do nhu cầu tuyển dụng của các doanh nghiệp tại Nhật cao, nên khi học ở Trường, các em không những có cơ hội giao lưu mà còn được tham gia tuyển dụng vào các doanh nghiệp của Nhật Bản tại Việt Nam và còn có cơ hội sang Nhật để làm việc."
+},{
+  "_id": "640c56e651efcd11e8058329",
+  "intent": "cau_hoi_20",
+  "utter_name": "utter_cau_hoi_20",
+  "utter": "Học công nghệ ô tô tích hợp nhiều lĩnh vực ngành nghề khác nhau: cơ khí chế tạo, điện tử, tự động hóa, điện ô tô, nhiệt, điện lạnh. Nhu cầu công việc như thiết kế, chế tạo, bảo trì, bảo dưỡng sửa chữa động cơ điện ô tô, các hệ thống trên ô tô như gầm, khung, sườn…Hiện nay nhu cầu công việc trên thị trường về ô tô rất lớn, các em có thể có được cơ hội việc làm như: kỹ sư vận hành giám sát sản xuất các thiết bị phụ tùng, linh kiện, lắp ráp ô tô, máy động lực tại các nhà máy, các cơ sở bảo trì, sửa chữa ô tô… Hoặc tham gia vào thiết kế chế tạo các bộ phận của ô tô. Các em cũng có thể làm kiểm định viên tại các trạm đăng kiểm ô tô, hoặc làm nhân viên kinh doanh tại các doanh nghiệp ô tô. Ngoài ra, sau khi ra trường cũng có cơ hội trở thành giảng viên giảng dạy về kỹ thuật ô tô."
+},{
+  "_id": "640c56e651efcd11e8058330",
+  "intent": "cau_hoi_21",
+  "utter_name": "utter_cau_hoi_21",
+  "utter": "Cả hai trường đều đào tạo những người làm việc trong lĩnh vực kỹ thuật, công nghệ như người ta vẫn gọi là kỹ sư. Giảng viên ở Trường ĐHBK cũng tham gia giảng dạy tại Trường ĐHSPKT và theo chiều ngược lại, giảng viên ở Trường ĐHSPKT cũng tham gia giảng dạy tại Trường ĐHBK. Tuy nhiên, cũng có một số điểm khác nhau: + Trường ĐHSPKT đào tạo theo định hướng ứng dụng thực hành, khối lượng (số tín chỉ) các học phần thực hành, thí nghiệm, thực tập chiếm một phần lớn trong chương trình đào tạo (trung bình 40%). + Ở Trường ĐHSPKT có ngành Sư phạm Kỹ thuật Công nghiệp. Sinh viên theo học ngành này được học chuyên môn với cùng một nội dung, chương trình đào tạo như sinh viên ở các ngành khác, nhưng các em có thêm một học kỳ để theo học các học phần về nghiệp vụ sư phạm. Như vậy sau khi tốt nghiệp, các em có thể làm việc ở các cơ quan, nhà máy, xí nghiệp như sinh viên tốt nghiệp ở các ngành khác, hoặc có thể trở thành giảng viên trong lĩnh vực kỹ thuật, công nghệ ở các trường đại học, cao đẳng hay làm các giáo viên dạy bộ môn kỹ thuật, công nghệ ở các trường THPT."
+},{
+  "_id": "640c56e651efcd11e8058331",
+  "intent": "cau_hoi_22",
+  "utter_name": "utter_cau_hoi_22",
+  "utter": "Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng mã trường DSK. Năm 2020, trường sử dụng 4 phương thức xét tuyển: xét điểm thi THPT, xét điểm học bạ, xét tuyển thẳng và xét điểm Kỳ thi đánh giá năng lực Đại học Quốc gia Thành phố Hồ Chí Minh với tổng chỉ tiêu là 1100. Riêng đối với phương thức xét điểm học bạ, chỉ tiêu là 404 phân bổ cho tất cả 15 ngành tuyển sinh của nhà trường. Với phương thức xét tuyển dựa vào kết quả học bạ THPT: Thí sinh đã tốt nghiệp trung học phổ thông (theo hình thức giáo dục chính quy hoặc giáo dục thường xuyên), có tổng điểm các môn học theo tổ hợp xét tuyển đạt ngưỡng đảm bảo chất lượng đầu vào là 18 điểm trở lên và không có môn nào dưới 5,0. Điểm xét tuyển là tổng điểm các môn học theo từng tổ hợp xét tuyển của mỗi ngành cộng với điểm ưu tiên. Điểm môn học trong tổ hợp xét tuyển là trung bình cộng của điểm trung bình môn học lớp 10, lớp 11 và học kỳ 1 lớp 12. Thông tin chi tiết về chỉ tiêu cho mỗi ngành, tổ hợp xét tuyển, em xem trên trang tuyển sinh của Đại học Đà Nẵng hoặc của Trường Đại học Sư phạm Kỹ thuật."
+},{
+  "_id": "640c56e651efcd11e8058332",
+  "intent": "cau_hoi_23",
+  "utter_name": "utter_cau_hoi_23",
+  "utter": "khi vào Trường ĐHSPKT, nhà trường đào tạo theo định hướng ứng dụng thực hành. Khi thiết kế chương trình đào tạo, tất cả các ngành xây dựng chương trình với khối lượng thí nghiệm, thực hành, thực tập chiếm số lượng lớn trong chương trình đào tạo, khoảng từ (35 - 45)%. Đối với riêng ngành Công nghệ Kỹ thuật Nhiệt, chúng tôi xây dựng chương trình chiếm khối lượng 40% kiến thức thực tế. Cụ thể: ngay tại Xưởng nhà trường, các em sẽ có 2 đợt thực tập chuyên môn Lạnh 1, chuyên môn lạnh 2; Một đợt thực tập chuyên môn nóng với các máy móc thiết bị lĩnh vực nóng như Lò hơi, các hệ thống sấy, Năng lượng Mặt trời, Năng lượng mới; các em có đợt thực tập chuyên môn Điều hòa không khí với các Hệ thống điều hòa không khí cục bộ, trung tâm. Các em có 1 đợt thực tập chuyên môn chuyên sâu Nhiệt lạnh; Khi các em có đủ một lượng kiến thức chuyên ngành Nhiệt lạnh, các em sẽ được tổ chức một đợt thực tập chuyên môn Công nghiệp tham gia sản xuất, thi công lắp đặt thực tế tại các Công trình, Công trường thi công. Đặc biệt các em sẽ có một Học kỳ Doanh nghiệp, Ngành nhiệt nói riêng và các ngành khác nói chung của Khoa Cơ khí sẽ liên lạc với các Doanh nghiệp, Công ty để đưa các em đến thực tập thực tế tại nhà máy có sự hướng dẫn kết hợp giữa Giảng viên của trường với đội ngũ Kỹ sư, kỹ thuật viên có trình độ chuyên môn của nhà máy. Lúc đó các em sẽ có được các kiến thức rất thực tế để làm quen, nắm bắt được ngay công việc sau khi các em tốt nghiệp ra trường. Và cuối cùng là các em có các học phần Đồ án môn học và Đồ án tốt nghiệp với kiến thức chuyên môn rất thực tế."
+},{
+  "_id": "640c56e651efcd11e8058333",
+  "intent": "cau_hoi_24",
+  "utter_name": "utter_cau_hoi_24",
+  "utter": "Khoa Điện - Điện tử hiện nay đào tạo những ngành: - Công nghệ thông tin - Công nghệ kỹ thuật điện, điện tử (Gồm 02 chuyên ngành Kỹ thuật điện tử và Hệ thống cung cấp điện) - Công nghệ kỹ thuật điện tử - viễn thông - Công nghệ kỹ thuật điều khiển và tự động hóa Những ngành này có đem lại nhiều cơ hội phát triển nghề nghiệp trong Thời đại công nghệ CMCN4.0 Theo nghiên cứu trong 10 năm tới sẽ có khoảng 70% vị trí công việc bị ảnh hưởng bởi CMCN 4.0. Trong đó có nhiều vị trí thâm dụng lao động như dệt may, da giày…, nhiều ngành nghề buộc phải cắt giảm nhân công để đảm bảo bắt kịp xu thế và duy trì sản xuất. Thậm chí, trong khu vực sản xuất kinh doanh, nếu lao động không đáp ứng được nhu cầu thì ngay lập tức sẽ bị đào thải, loại khỏi dây chuyền sản xuất. Dựa trên những tổng hợp, phân tích và đánh giá, các chuyên gia về vấn đề việc làm cũng đã chỉ ra những ngành, nghề sẽ có xu hướng “lên ngôi” trong thị trường lao động 5 -10 năm tới. Theo đó, ngành công nghệ thông tin (CNTT) được coi là ngành cốt lõi của CMCN 4.0, có khả năng miễn dịch với khủng hoảng kinh tế. Dự báo từ nay đến năm 2020, Việt Nam sẽ thiếu 400.000 nhân lực làm CNTT. Trong khi đó, mỗi năm thị trường chỉ cung cấp 32.000 sinh viên tốt nghiệp CNTT và các ngành có liên quan đến CNTT. Ngoài ra, các ngành công nghệ kỹ thuật điện - điện tử; kỹ thuật điều khiển và tự động hóa robot và trí tuệ nhân tạo – tâm điểm của CMCN 4.0 cũng sẽ phát triển rất mạnh. Bên cạnh đó, các ngành: Công nghệ sinh học - tạo ra năng suất lao động cao và tạo ra sản lượng cho doanh nghiệp (DN); phát triển Internet di động, điện toán đám mây… và các ngành về dịch vụ cũng có xu hướng hot như: Phát triển và xây dựng in 3D. Vì vậy , để đón đầu cơ hội việc làm thì Những ngành nghề này có đem lại rất nhiều cơ hội phát triển nghề nghiệp trong Thời đại công nghệ CMCN4.0."
+},{
+  "_id": "640c56e651efcd11e8058334",
+  "intent": "cau_hoi_25",
+  "utter_name": "utter_cau_hoi_25",
+  "utter": "Việt Nam đang trong thời kỳ phát triển mạnh mẽ và hội nhập quốc tế. Rất nhiều dự án đâu tư xây dựng đã và đang được triển khai. Vì vậy, Việt Nam đang và sẽ cần một nguồn nhân lực kỹ thuật rất lớn trong lĩnh vực xây dựng. Sau khi tốt nghiệp tại Khoa Kỹ thuật Xây dựng (Trường ĐHSPKT - ĐHĐN), cơ hội việc làm của sinh viên là rất cao. Sinh viên có thể tham gia các hoạt động chuyên môn nghề nghiệp sau: - Tư vấn, thiết kế, thi công, quản lý dự án tại Các tập đoàn; các công ty tư vấn, thiết kế; công ty xây lắp thuộc lĩnh vực xây dựng dân dụng và công nghiệp. - Làm việc tại các ban quản lý dự án; các sở; phòng quản lý đô thị, kiến trúc, xây dựng, cơ sở hạ tầng, …; … - Giảng dạy tại các Trường Đại học, Cao đẳng cùng chuyên ngành Đào tạo. Đồng thời, 100% sinh viên tốt nghiệp từ loại KHÁ trở lên được Khoa KT Xây dựng (Trường ĐHSPKT - ĐHĐN) ưu tiên giới thiệu việc làm tại các Doanh nghiệp có ký kết hợp tác với Nhà trường"
+},{
+  "_id": "640c56e651efcd11e8058335",
+  "intent": "cau_hoi_26",
+  "utter_name": "utter_cau_hoi_26",
+  "utter": "- Ngày nay, ưu tiên hàng đầu của người Việt Nam và cả thế giới là sử dụng thực phẩm đảm bảo sức khỏe, thực phẩm có hàm lượng dinh dưỡng hợp lý, thực phẩm sạch, an toàn đang ngày càng được quan tâm. - Với thế mạnh là nước nông nghiệp, Việt Nam có nguồn nguyên liệu dồi dào đặc biệt như các mặt hàng thủy sản và nông sản, cung cấp đủ cho gần 100 triệu dân trong nước và xuất khẩu ra thị trường nước ngoài. Vì vậy có thể nói ngành Kỹ thuật Thực phẩm đang là một ngành học hấp dẫn hiện nay. - Ngành Kỹ thuật Thực phẩm đào tạo sinh viên có đủ năng lực để đáp ứng mọi yêu cầu trong lĩnh vực Kỹ thuật Thực phẩm. Sinh viên tốt nghiệp có rất nhiều cơ hội tìm kiếm việc làm. - Sinh viên có thể đảm nhận các vị trí như: + Cán bộ kỹ thuật tại các cơ sở sản xuất, nhà máy thuộc lĩnh vực chế biến nông sản, thực phẩm như công nghệ chế biến đường, bánh kẹo, lương thực, rau quả, cây nhiệt đới (chè, cà phê, thuốc lá)..., công nghệ lên men (rượu, bia, nước giải khát lên men, sữa, sữa chua, bơ, phô mai...), công nghệ chế biến thịt, thủy sản… + Cán bộ kiểm hóa tại các trung tâm kiểm định chất lượng, các trạm hải quan cửa khẩu sân bay, hải cảng biên giới về kiểm tra chất lượng nông - hải sản thực phẩm xuất, nhập khẩu. + Nghiên cứu viên tại cơ quan, viện nghiên cứu khoa học về lĩnh vực khoa học và công nghệ thực phẩm. + Cán bộ kiểm tra và quản lý vệ sinh an toàn thực phẩm tại các Chi cục an toàn vệ sinh thực phẩm, thanh tra viên ở các Chi cục quản lý chất lượng. Tham gia quản trị chất lượng, an toàn vệ sinh thực phẩm trong các tập đoàn, công ty, doanh nghiệp trong chuỗi sản xuất – cung ứng thực phẩm “từ trang trại đến bàn ăn”. + Giảng dạy tại các trường trung học chuyên nghiệp hoặc giảng dạy thực hành tại các trường cao đẳng, đại học."
+},{
+  "_id": "640c56e651efcd11e8058336",
+  "intent": "cau_hoi_27",
+  "utter_name": "utter_cau_hoi_27",
+  "utter": "Khoa đào tạo tất cả các ngành thuộc trường Đại học Sư phạm Kỹ thuật. Em được chọn học bất kì ngành nào trong 14 ngành của trường ngay từ khi nhập học."
+},{
+  "_id": "640c56e651efcd11e8058337",
+  "intent": "cau_hoi_28",
+  "utter_name": "utter_cau_hoi_28",
+  "utter": "Hiện nay cả nước nói chung và trên địa bàn Thành phố Đà Nẵng nói riêng có nhiều cơ sở đào tạo về các chuyên ngành xây dựng. Tuy nhiên nếu chọn theo học tại Khoa Kỹ thuật Xây dựng (Trường ĐH SPKT - ĐHĐN) thì các em sẽ nhận được các ưu điểm sau: - Đại học Đà Nẵng là đại học vùng trọng điểm quốc gia, đa cấp, đa lĩnh vực, đa ngành. Khoa Kỹ thuật Xây dựng thuộc Trường SPKT - ĐHĐN là cơ sở đào tạo công lập có mức học phí thấp; vị trí địa lý nằm ở Trung tâm Thành phố Đà Nẵng; cơ sở vật chất tốt và luôn tạo ra một môi trường học tập thân thiện với người học với tiêu chí “lấy người học là trung tâm”. - Chương trình đào tạo có nhiều ưu điểm: theo định hướng ứng dụng; thời gian đào tạo từ 3,5 - 4 năm; mục tiêu đào tạo đáp ứng nhu cầu thực tiễn của xã hội; đặc biệt chú trọng kỹ năng thực hành, ứng dụng, kỹ năng mềm cho người học (hơn 30% số tín chỉ là thực hành, thực tập, đồ án); 100% Sinh viên được tham gia Học kỳ thực tập tại Doanh nghiệp; - Nhiều chính sách miễn giảm học phí; chính sách học bổng cho sinh viên với mức học bổng rất cao (trên 15 triệu đồng/ 1 Học kỳ)’ - Sinh viên tốt nghiệp loại Khá trở lên được Khoa giới thiệu việc làm sau khi tốt nghiệp; - Nhiều cơ hội tham gia liên kết Đào tạo; học sau Đại học với các Trường đối tác tại: Thái Lan; Nhật Bản; Đài Loan; … - Được tham gia nhiều hoạt động ngoại khóa: sáng tạo khởi nghiệp, các cuộc thi dành cho sinh viên chuyên ngành xây dựng, cắm trại; dã ngoại; các hoạt động văn hóa thể thao, các hoạt động vì cộng đồng, ..."
+},{
+  "_id": "640c56e651efcd11e8058338",
+  "intent": "cau_hoi_29",
+  "utter_name": "utter_cau_hoi_29",
+  "utter": "- Trường ĐHSPKT là trường ĐH công lập trực thuộc ĐHĐN, thu học phí theo quy định của Nhà nước, trung bình một năm (2 học kỳ) là 11,7 triệu đồng. - Chính sách học bổng khuyến học: + Sinh viên có kết quả học tập (theo từng học kỳ) từ loại Khá trở lên và rèn luyện đạo đức loại Tốt, sẽ được xét nhận học bổng khuyến học tập theo quy định của Nhà nước. + Sinh viên có kết quả học tập xuất sắc, có sức lan tỏa trong học tập, nghiên cứu khoa học và trong các hoạt động Đoàn sẽ được xem xét trao học bổng toàn phần ”Thử thách UTE” trị giá 20.000.000 đồng/suất/năm. - Chính sách miễn giảm học phí: Trường thực hiện chính sách miễn giảm học phí cho sinh viên thuộc diện được hưởng theo quy định của Nhà nước. - Chính sách hỗ trợ sinh viên thuộc gia đình nghèo và có hoàn cảnh đặc biệt: + Trợ cấp xã hội theo tháng/ học kỳ cho sinh viên thuộc gia đình hộ nghèo; + Ưu tiên trong việc xét nhận học bổng do các cá nhân/ tổ chức tài trợ. + Ưu tiên sắp xếp chỗ ở trong ký túc xá của Trường. - Ngoài ra, trong mỗi năm học, nhà trường còn nhận được khá nhiều học bổng dành cho sinh viên đến từ các tổ chức và doanh nghiệp trong nước cũng như quốc tế (ví dụ học bổng Kumho, Mitsubishi, Daikin, DBPA,…)."
+},{
+  "_id": "640c56e651efcd11e8058339",
+  "intent": "cau_hoi_30",
+  "utter_name": "utter_cau_hoi_30",
+  "utter": "- Ngành học này giúp chúng ta góp phần nhiều hơn trong việc bảo vệ môi trường sống của mình; hơn nữa, ngành học còn là một phần không thể thiếu trong bất kỳ doanh nghiệp hay cơ quan, tổ chức nào từ các nhà máy sản xuất, bệnh viện, trường học, dịch vụ du lịch, nhà hàng…. Và minh chứng rõ ràng nhất chúng ta cũng đã thấy là nhiều doanh nghiệp vì không tuân thủ các quy định về bảo vệ môi trường và đã bị cộng đồng quay lưng. Điều đó càng làm cho ta thấy được ý nghĩa rất quan trọng của ngành. - Học ngành Công nghệ Kỹ thuật Môi trường bạn sẽ được: + Vững vàng về kiến thức chuyên môn với phương châm “Học đi đôi với hành”. + Có khả năng phân tích và khảo sát môi trường, đánh giá tác động môi trường, xử lý nước thải, xử lý khí thải và xử lý chất thải rắn… + Có khả năng giải quyết tốt các vấn đề ô nhiễm môi trường, phòng chống các biểu hiện của ô nhiễm và suy thoái môi trường hướng tới một xã hội bền vững. + Được học và trao dồi các kỹ năng mềm và khả năng ngoại ngữ cần thiết trong môi trường xã hội năng động như hiện nay. + Được tham gia nghiên cứu khoa học cùng với các bạn sinh viên dưới sự hướng dẫn tận tình của các giảng viên trong Bộ môn và Khoa. + Được tham gia vào các dự án với các trường, các đơn vị tổ chức trong và ngoài nước cũng như các chương trình trao đổi sinh viên khác. - Sau khi tốt nghiệp ngành Công nghệ Kỹ thuật Môi trường, bạn có thể làm ở các vị trí như: + Cán bộ kỹ thuật tại phòng kỹ thuật hoặc quản lý điều hành hệ thống xử lý tại các trạm xử lý nước cấp, nước thải, khu xử lý chất thải rắn của thành phố hoặc khu công nghiệp. + Kỹ sư thiết kế cấp thoát nước cho nhà dân dụng và công nghiệp. + Cán bộ phòng tài nguyên môi trường. + Cán bộ kỹ thuật cho các công ty môi trường hoặc công ty cung cấp thiết bị môi trường. + Cán bộ phụ trách quản lý tuyến thu gom rác thải và chất thải rắn. + Cán bộ kỹ thuật và phân tích viên môi trường ở các sở, viện, trung tâm, doanh nghiệp với nhiệm vụ phân tích, đánh giá, khảo sát, điều tra, thanh tra và xử lý các vấn đề liên quan đến môi trường. + Cán bộ giảng dạy ở các cơ sở đào tạo thuộc lĩnh vực môi trường. + Cán bộ tại các dự án phi chính phủ (NGO)."
+},{
+  "_id": "640c56e651efcd11e8058340",
+  "intent": "cau_hoi_31",
+  "utter_name": "utter_cau_hoi_31",
+  "utter": "- Điểm chuẩn năm ngoái là: + Điểm chuẩn xét Học bạ năm 2019: 24,20 + Điểm chuẩn xét Kết quả thi THPT QG năm 2019: 20,55 - Chỉ tiêu năm này là: 130 ( THPT: 75, Học bạ: 42, ĐGNL: 13)"
+},{
+  "_id": "640c56e651efcd11e8058341",
+  "intent": "cau_hoi_32",
+  "utter_name": "utter_cau_hoi_32",
+  "utter": "Sinh viên theo học ngành Công nghệ kỹ thuật Cơ điện tử sẽ được nghiên cứu các công nghệ và thiết bị cơ điện tử nhằm phục vụ công nghiệp hiện đại. Sinh viên được trang bị kiến thức, kỹ năng, tay nghề và năng lực nghiên cứu để có khả năng vận hành, khai thác, sửa chữa, bảo trì các hệ thống, thiết bị Cơ-điện tử, đồng thời có thể tham gia thiết kế, cải tiến các hệ thống, thiết bị này. - Khối kiến thức nền tảng về cơ khí, điện tử; về công nghệ thông tin và máy tính. Cơ khí, điện tử, máy tính là những thành phần không thể thiếu trên hệ thống Cơ điện tử. - Khối kiến thức về thiết bị tự động: như rơle, các cảm biến công nghệ cao, các cơ cấu chấp hành, các thiết bị khí nén thủy lực, và các thiết bị liên quan... - Khối kiến thức về Tự động hoá quá trình sản xuất. - Khối kiến thức về điều khiển Robot, điều khiển và tự động hóa. - Khối kiến thức về kỹ năng lập trình điều khiển hệ thống trên máy tính PC, trên hệ thống nhúng, trên các thiết bị điều khiển chuyên ngành như PLC, các máy CNC."
+},{
+  "_id": "640c56e651efcd11e8058342",
+  "intent": "cau_hoi_33",
+  "utter_name": "utter_cau_hoi_33",
+  "utter": "Em được chọn học bất kì ngành nào khi em là sinh viên của Khoa Sư phạm Công nghiệp kể cả các ngành có điểm sàn cao hơn điểm đầu vào của em, tuy nhiên còn phụ thuộc vào số lượng hồ sơ đăng ký, sẽ lấy điểm từ trên xuống."
+},{
+  "_id": "640c56e651efcd11e8058343",
+  "intent": "cau_hoi_34",
+  "utter_name": "utter_cau_hoi_34",
+  "utter": "Nguyên tắc đăng ký: Được đăng ký tối đa 05 nguyện vọng sắp xếp theo thứ tự ưu tiên từ cao xuống thấp, không được điều chỉnh nguyện vọng, không được bổ sung nguyện vọng đăng ký sau khi đã nộp hồ sơ. Hồ sơ: - Đơn đăng ký xét tuyển (Mẫu 1B) có đầy đủ thông tin theo quy định. Thí sinh tải mẫu đơn hoặc đăng ký online và in đơn trên trang tuyển sinh của ĐHĐN tại địa chỉ http://ts.udn.vn; - Bản photo chứng minh nhân dân/căn cước công dân; - Bản photo chứng nhận tốt nghiệp THPT (nếu đã TN); - Bản photo học bạ THPT/giấy xác nhận điểm học THPT; - Biên lai nộp lệ phí ĐKXT (đối với thí sinh nộp hồ sơ trực tiếp tại điểm nhận hồ sơ) hoặc bản photocopy biên lai chuyển lệ phí ĐKXT qua bưu điện (đối với thí sinh nộp hồ sơ qua bưu điện) hoặc minh chứng chuyển lệ phí qua tài khoản; - Minh chứng được hưởng chính sách ưu tiên theo đối tượng (nếu đăng ký hưởng ưu tiên); - Minh chứng khác theo yêu cầu của cơ sở đào tạo. Thời gian nhận hồ sơ: Từ ngày 15/6/2020 đến 17h00 ngày 31/7/2020 Địa điểm nhận hồ sơ: Thí sinh nộp hồ sơ trực tiếp hoặc qua đường bưu điện đến: - Ban Đào tạo, Phòng A110, Đại học Đà Nẵng, 41 Lê Duẩn, Quận Hải Châu, Tp. Đà Nẵng, - Phòng Đào tạo, Trường Đại học Sư phạm Kỹ thuật, 48 Cao Thắng, Quận Hải Châu, Tp. Đà Nẵng."
+},{
+  "_id": "640c56e651efcd11e8058344",
+  "intent": "cau_hoi_35",
+  "utter_name": "utter_cau_hoi_35",
+  "utter": "Nhà trường bắt đầu tuyển sinh cấp ĐH từ năm 2018, sinh viên hiện chưa ra trường nên chưa có số liệu về tỷ lệ việc làm. Tuy nhiên với kinh nghiệm gần 60 năm đào tạo trong lĩnh vực kỹ thuật, công nghệ, nhiều thế hệ học sinh-sinh viên của Trường luôn được xã hội đánh giá cao về thái độ, kỹ năng thực hành và đã khẳng định được bản thân, giữ những vị trí quan trọng trong các cơ quan, công ty, xí nghiệp trong và ngoài nước. Nhà trường có mối quan hệ rộng khắp với các doanh nghiệp trong và ngoài nước như FPT Software, Công ty CP Cáp treo BanaHill, đặc biệt là các doanh nghiệp Nhật Bản như Mitsubishi, Daikin, Esuhai,… trong việc gởi sinh viên sang thực tập (kể cả thực tập hưởng lương) tại Nhật Bản, đào tạo chuyên môn, hợp tác tuyển dụng,… Nhà trường đào tạo theo định hướng ứng dụng, thực hành nên trong chương trình đào tạo tất cả các ngành đều có học phần Học kỳ doanh nghiệp. Khi tham gia học phần này, sinh viên được gởi đến doanh nghiệp trong thời gian từ 3 đến 6 tháng để học tập, thực tập, làm việc trong môi trường doanh nghiệp thực sự, tăng kỹ năng tay nghề, kỹ năng giao tiếp và cơ hội có việc làm cho các em sau tốt nghiệp."
+},{
+  "_id": "640c56e651efcd11e8058345",
+  "intent": "cau_hoi_36",
+  "utter_name": "utter_cau_hoi_36",
+  "utter": "Theo quy định hiện nay của Luật Giáo dục, khi em là sinh viên của Khoa Sư phạm Công nghiệp thì em được miễn phí hoàn toàn học phí (học lần đầu) cho đến khi tốt nghiệp."
+},{
+  "_id": "640c56e651efcd11e8058346",
+  "intent": "cau_hoi_37",
+  "utter_name": "utter_cau_hoi_37",
+  "utter": "Theo đề án tuyển sinh, Nhà trường xét trúng tuyển vào các ngành nhóm V đối với các học sinh đã tốt nghiệp THPT vào năm 2020 và đáp ứng được 01 trong 02 tiêu chí sau: + Có hạnh kiểm Tốt và đạt danh hiệu học sinh giỏi lớp 12, 02 năm lớp 10, 11 đạt danh hiệu học sinh Khá trở lên ở các trường THPT và có tổng điểm 02 môn ở lớp 12 trong các môn thuộc tổ hợp môn xét tuyển tối thiểu từ 15 điểm trở lên. Đối với những thí sinh cùng điểm sẽ xét đến điểm trung bình môn Toán của lớp 12. + Đạt giải Nhất, Nhì, Ba học sinh giỏi lớp 12 cấp tỉnh/thành phố các môn Toán, Vật lý, Hóa học, Sinh học, Ngữ Văn, Tin học ở các năm 2018, 2019, 2020, có 02 năm lớp 10, 11 đạt danh hiệu học sinh Khá trở lên và có hạnh kiểm Khá trở lên. Trong trường hợp các thí sinh cùng giải thì sẽ xét đến điểm trung bình môn Toán của lớp 12. Như vậy nếu các em đạt giải các môn Toán, Tin học cấp tỉnh và thỏa mãn các điều kiện đảm bảo chất lượng đầu vào thì được xem xét trúng tuyển."
+},{
+  "_id": "640c56e651efcd11e8058347",
+  "intent": "cau_hoi_38",
+  "utter_name": "utter_cau_hoi_38",
+  "utter": "Ngày nay, cùng với sự phát triển của đời sống xã hội và sản xuất công nghiệp là sự gia tăng liên tục các phương tiện phục vụ nhu cầu vận chuyển hàng hóa, nhu cầu đi lại của con người. Trong số các phương tiện vận chuyển thông dụng hiện nay, thì Oto chính là phương tiện chiếm số lượng nhiều nhất. Ngành Công nghệ kỹ thuật (CNKT) Ô tô là ngành học tích hợp kiến thức của nhiều lĩnh vực: cơ khí, thủy lực, khí nén, điện, điện tử, tự động hóa… Nhu cầu công việc như thiết kế, chế tạo, bảo trì, bảo dưỡng, sửa chữa động cơ, các hệ thống ô tô, cũng như lắp đặt, sản xuất cho đến nghiên cứu công nghệ, dòng sản phẩm mới… theo xu hướng thị trường ngày càng tăng cao. Do đó, cơ hội làm việc của ngành CNKT Ô tô là rất lớn. Sinh viên tốt nghiệp ngành CNKT Ô tô, các em có cơ hội tìm việc làm sau: - Kỹ sư vận hành, giám sát sản xuất phụ tùng, phụ kiện và lắp ráp ô tô - máy động lực tại các nhà máy sản xuất phụ tùng, phụ kiện và lắp ráp ôtô, các cơ sở sửa chữa, bảo trì bảo dưỡng ôtô; Tham gia thiết kế, chế tạo ô tô. - Kiểm định viên tại các trạm đăng kiểm ô tô. - Nhân viên kinh doanh tại các doanh nghiệp kinh doanh ô tô, máy động lực, phụ tùng ô tô. - Tham gia giảng dạy ở các cơ sở đào tạo các cấp."
+},{
+  "_id": "640c56e651efcd11e8058348",
+  "intent": "cau_hoi_39",
+  "utter_name": "utter_cau_hoi_39",
+  "utter": "Các kỹ sư cơ khí sẽ làm việc ở phòng thiết kế, kỹ thuật, dự án ở những viện nghiên cứu, nhà máy, công ty cơ khí, công trình hoặc kỹ sư cơ khí sẽ đảm nhận việc sản xuất, lắp đặt, vận hành và bảo dưỡng các sản phẩm cơ khí, máy và dây chuyền thiết bị công nghiệp. Công việc của Kỹ sư công nghệ chế tạo máy bao gồm: - Thiết kế, lên bản vẽ các loại máy móc, thiết bị cơ khí cho sản xuất như máy thu hoạch trong nông nghiệp, dây chuyền sản xuất đồ uống, thực phẩm, dây chuyền sản xuất vật liệu xây dựng, sản xuất dược phẩm, máy móc đóng gói, đóng chai, đóng hộp... - Tham gia thiết kế các sản phẩm cơ khí và giám sát quá trình sản xuất các thiết bị đó. Công việc này đòi hỏi phải có kiến thức, kinh nghiệm về gia công chế tạo máy và các phần mềm đồ họa chuyên ngành. - Thi công, lắp đặt và giám sát việc thi công máy móc, cầu trục, thiết bị, dây chuyền sản xuất cho các công trình, nhà máy nhiệt điện, thủy điện, xi măng, đóng tàu... - Tham gia gia công sản phẩm cơ khí như phay, tiện, hàn, bào, khoan, gia công trên các máy vạn năng CNC tại các xưởng, xí nghiệp hay công ty cơ khí. - Vận hành, kiểm tra, lập kế hoạch và thực hiện việc vận hành, bảo trì, bảo dưỡng định kỳ, xử lý sự cố các hệ thống máy móc của nhà máy, xí nghiệp, công ty."
+},{
+  "_id": "640c56e651efcd11e8058349",
+  "intent": "cau_hoi_40",
+  "utter_name": "utter_cau_hoi_40",
+  "utter": "Nhu cầu nhân lực kỹ thuật các chuyên ngành xây dựng trong giai đoạn hiện nay là rất lớn, bao gồm cả nhân sự nam và nữ... Với các SV nữ học xây dựng, vị trí việc làm sau khi ra trường sẽ thích hợp ở các đơn vị thiết kế, quản lý chất lượng, lập dự toán; cán bộ giảng dạy các trường đại học, cao đẳng, viện nghiên cứu; cán bộ phòng thí nghiệm; ... Các em nữ chỉ cần xác định rõ mục tiêu, quyết tâm thì các em sẽ đạt thành tích tốt trong học tập, có nhiều cơ hội nhận học bổng, nhiều cơ hội được giới thiệu việc làm thích hợp sau khi ra trường."
+},{
+  "_id": "640c56e651efcd11e8058350",
+  "intent": "cau_hoi_41",
+  "utter_name": "utter_cau_hoi_41",
+  "utter": "Nếu chọn 1 trong 2 thì sẽ chọn ngành trước chọn trường nhưng có một thứ quan trọng hơn đó là kỹ năng. Trước khi chọn trường, chọn ngành, hãy xem mình giỏi gì, ráp chúng lại với nhau để đưa ra lựa chọn phù hợp nhất. Xây dựng cho mình một bộ kỹ năng để thích ứng với mọi thứ. Các em nên đánh giá bản thân mình qua các bước sau trước khi chọn ngành nghề: - Tìm hiểu bản thân, từ đó biết mình thuộc nhóm nghề nghiệp gì; - Liệt kê những nghề nghiệp/ công việc mình muốn theo đuổi và lọc lại nếu quá nhiều; - Tìm hiểu những kiến thức, kỹ năng, tố chất cần thiết với công việc/ nghề nghiệp đó; - Xác định một ngành học phù hợp nhất với bản thân và nghề nghiệp đã chọn; - Sau đó mới xác định trường đại học phù hợp có ngành học mà mình đã chọn; - Tham quan, tìm hiểu trường đại học đã chọn, tìm hiểu những phản hồi thực của người học ngôi trường đó để xác quyết lựa chọn của mình. Làm công việc ngành nghề mình thích, dù kiếm được nhiều hay không, vẫn hơn làm công việc mình không thích, để rồi tiêu phí những đồng tiền đó vào việc xả stress, tiêu phí thanh xuân của mình đi Khi bạn quyết tâm làm bất kể mọi rào cản, giới hạn và định kiến, thì Khoa Điện - Điện tử Trường ĐHSPKT quyết kiến tạo cùng bạn"
+},{
+  "_id": "640c56e651efcd11e8058351",
+  "intent": "cau_hoi_42",
+  "utter_name": "utter_cau_hoi_42",
+  "utter": " Sinh viên chuyên ngành Công nghệ Vật liệu được trang bị những kiến thức cơ bản chung về hóa học; kiến thức nền tảng thuộc các lĩnh vực chuyên ngành như: công nghệ sản xuất vật liệu polyme (nhựa, cao su, sơn, keo dán,…), công nghệ sản xuất vật liệu silicat (xi măng, gốm sứ, thủy tinh, vật liệu chịu lửa…), kỹ thuật sản xuất các hợp chất vô cơ hữu cơ, vật liệu tiên tiến (vật liệu nano, vật liệu composite)… - Sau khi tốt nghiệp, các bạn tân cử nhân chuyên ngành Công nghệ Vật liệu sẽ có cơ hội làm việc tại các cơ sở sản xuất và gia công các loại vật liệu như: + Các nhà máy sản xuất vật liệu polymer (nhà máy cao su, Nhựa Rạng Đông, Sơn Á Đông, Sơn Kova, vải sợi, giấy…); các nhà máy sản xuất vật liệu composite (các xưởng đóng tàu, nhà máy sản xuất phụ kiện ô tô…); các nhà máy sản xuất linh kiện, vật liệu điện tử, nano. + Các cơ sở sản xuất vật liệu silicat (nhà máy xi măng, gốm, sứ vệ sinh, thủy tinh, các trạm bê tông…); các công ty sản xuất cấu kiện, vật liệu xây dựng, vật liệu trang trí nội thất (bê tông nhẹ, bê tông cường độ cao, vật liệu cách nhiệt, cách âm, vật liệu chịu lửa…). + Các cơ sở sản xuất, xuất nhập khẩu thuộc lĩnh vực vật liệu kim loại (Thép Hòa Phát, Tôn Hoa Sen…). + Các công ty sản xuất và kinh doanh các sản phẩm ngành hóa (phân bón, phụ gia, tinh dầu, mỹ phẩm), hàng tiêu dùng (Unilever, P&G…). + Các trung tâm phân tích ở các sở, viện nghiên cứu; cơ quan quản lý và kiểm định chất lượng nguyên vật liệu cũng là môi trường làm việc phù hợp cho các cử nhân chuyên ngành Công nghệ Vật liệu."
+},{
+  "_id": "640c56e651efcd11e8058352",
+  "intent": "cau_hoi_43",
+  "utter_name": "utter_cau_hoi_43",
+  "utter": "Chương trình đào tạo các chuyên ngành Xây dựng tại Khoa KTXD theo định hướng ứng dụng với thời gian đào tạo từ 3,5 – 4 năm; mục tiêu đào tạo đáp ứng nhu cầu thực tiễn của xã hội; đặc biệt chú trọng kỹ năng thực hành, ứng dụng cho người học (hơn 30% số tín chỉ là thực hành, thực tập, đồ án); trong đó 100% Sinh viên được tham gia Học kỳ Doanh nghiệp (HKDN); HKDN là một đợt thực tập được kéo dài 1 hoặc nhiều học kỳ. Trong đó, sinh viên được tham gia với vai trò một nhân viên tại công ty, doanh nghiệp thực tập. Quá trình thực tập GVHD và Doanh nghiệp sẽ lên một kế hoạch thực tập (thời gian, đề cương chi tiết, kiểm tra đánh giá, …) để sinh viên tham gia vào quá trình sản xuất thực tế và kết hợp với Đồ án tốt nghiệp. Sau khi hoàn thành HKDN; Sinh viên sẽ được: - Làm quen với môi trường sản xuất thực tế tại các Doanh nghiệp xây dựng có uy tín; - Được học tập và thực hành Đồ án tốt nghiệp với sự hướng dẫn của GVHD và cán bộ kỹ thuật có kinh nghiệm tại các Doanh nghiệp trên địa bàn Thành phố Đà Nẵng; - Được ưu tiên giới thiệu việc làm tại Doanh nghiệp sau khi tốt nghiệp; - Nếu sinh viên quan tâm có thể thực hiện HKDN kéo dài nhiều học kỳ kết hợp với làm đề tài nghiên cứu khoa học và tham gia các dự án thực tế cùng GVHD, các chuyên gia tại các Doanh nghiệp"
+},{
+  "_id": "640c56e651efcd11e8058353",
+  "intent": "cau_hoi_44",
+  "utter_name": "utter_cau_hoi_44",
+  "utter": " Sinh viên chuyên ngành Công nghệ Vật liệu được trang bị những kiến thức cơ bản chung về hóa học; kiến thức nền tảng thuộc các lĩnh vực chuyên ngành như: công nghệ sản xuất vật liệu polyme (nhựa, cao su, sơn, keo dán,…), công nghệ sản xuất vật liệu silicat (xi măng, gốm sứ, thủy tinh, vật liệu chịu lửa…), kỹ thuật sản xuất các hợp chất vô cơ hữu cơ, vật liệu tiên tiến (vật liệu nano, vật liệu composite)… - Sau khi tốt nghiệp, các bạn tân cử nhân chuyên ngành Công nghệ Vật liệu sẽ có cơ hội làm việc tại các cơ sở sản xuất và gia công các loại vật liệu như: + Các nhà máy sản xuất vật liệu polymer (nhà máy cao su, Nhựa Rạng Đông, Sơn Á Đông, Sơn Kova, vải sợi, giấy…); các nhà máy sản xuất vật liệu composite (các xưởng đóng tàu, nhà máy sản xuất phụ kiện ô tô…); các nhà máy sản xuất linh kiện, vật liệu điện tử, nano. + Các cơ sở sản xuất vật liệu silicat (nhà máy xi măng, gốm, sứ vệ sinh, thủy tinh, các trạm bê tông…); các công ty sản xuất cấu kiện, vật liệu xây dựng, vật liệu trang trí nội thất (bê tông nhẹ, bê tông cường độ cao, vật liệu cách nhiệt, cách âm, vật liệu chịu lửa…). + Các cơ sở sản xuất, xuất nhập khẩu thuộc lĩnh vực vật liệu kim loại (Thép Hòa Phát, Tôn Hoa Sen…). + Các công ty sản xuất và kinh doanh các sản phẩm ngành hóa (phân bón, phụ gia, tinh dầu, mỹ phẩm), hàng tiêu dùng (Unilever, P&G…). + Các trung tâm phân tích ở các sở, viện nghiên cứu; cơ quan quản lý và kiểm định chất lượng nguyên vật liệu cũng là môi trường làm việc phù hợp cho các cử nhân chuyên ngành Công nghệ Vật liệu."
+},{
+  "_id": "640c56e651efcd11e8058354",
+  "intent": "cau_hoi_45",
+  "utter_name": "utter_cau_hoi_45",
+  "utter": "Căn cứ theo QĐ của Giám đốc Đại học Đà Nẵng, Trường Đại học Sư phạm Kỹ thuật chính thức tuyển sinh ngành Công nghệ Kỹ thuật Kiến trúc (chuyên ngành Kiến trúc công trình) trong năm 2021. Các tổ hợp xét tuyển của ngành Kiến trúc công trình, gồm: - Toán - Lý - Vẽ MT; - Toán - Văn - Vẽ MT; - Toán - Anh - Vẽ MT; - Toán - Lý - Hóa. Với môn Vẽ MT, thí sinh sẽ đăng ký và tham gia kỳ thi vẽ MT do ĐHĐN tổ chức. Ngoài ra, thí sinh có thể sử dụng kết quả thi môn vẽ MT tại các Trường ĐH khác ở Việt Nam trong kỳ thi năm 2021."
+},{
+  "_id": "640c56e651efcd11e8058355",
+  "intent": "cau_hoi_46",
+  "utter_name": "utter_cau_hoi_46",
+  "utter": "Đây là một câu hỏi rất hay, thú vị và đang là xu thế ứng dụng công nghệ hiện nay. Chúng ta biết đế các nông trại thông minh, hệ thống giao thông thông minh, thành phố thông minh, robot thay cho con người trong các nhà máy, hệ thống sản xuất tự động.v.v. Do vậy, các hệ thống trên tổng hợp nhiều kiến thức, lĩnh vực như CNTT, điện tử, tự động hóa. Ngành Điện tử -viễn thông trạng bị cho người học kiến thức lập trình, thực thi trên Chip; tương tác và điều khiển trên máy tinh, IoT sẽ đáp ứng được nhu cầu và phù hợp với sở thích cuả bạn."
+},{
+  "_id": "640c56e651efcd11e8058356",
+  "intent": "cau_hoi_47",
+  "utter_name": "utter_cau_hoi_47",
+  "utter": "Căn cứ theo QĐ của Giám đốc Đại học Đà Nẵng, Trường Đại học Sư phạm Kỹ thuật chính thức tuyển sinh ngành Công nghệ Kỹ thuật Kiến trúc (chuyên ngành Kiến trúc công trình) trong năm 2021. Các tổ hợp xét tuyển của ngành Kiến trúc công trình, gồm: - Toán - Lý - Vẽ MT; - Toán - Văn - Vẽ MT; - Toán - Anh - Vẽ MT; - Toán - Lý - Hóa. Với môn Vẽ MT, thí sinh sẽ đăng ký và tham gia kỳ thi vẽ MT do ĐHĐN tổ chức. Ngoài ra, thí sinh có thể sử dụng kết quả thi môn vẽ MT tại các Trường ĐH khác ở Việt Nam trong kỳ thi năm 2021."
+},{
+  "_id": "640c56e651efcd11e8058357",
+  "intent": "cau_hoi_48",
+  "utter_name": "utter_cau_hoi_48",
+  "utter": "Theo Nghị định 99/2019/NĐ-CP của Thủ tướng Chính phủ được ban hành ngày 30/12/2019 và có hiệu lực từ ngày 15/02/2020, sinh viên tốt nghiệp Chương trình đào tạo Đại học mà có dưới 150 tín chỉ thì các em sẽ được nhận bằng cử nhân. Nhưng, nếu sinh viên tốt nghiệp chương trình đào tạo chuyên sâu đặc thù từ 150 tín chỉ trở lên thì các em đó có thể nhận bằng Kỹ sư. Nghị định 99/2019/NĐ-CP cũng mới có hiệu lực gần đây ngày 15/02/2020. Cho nên hiện nay, các trường Đại học đang đào tạo trong lĩnh vực công nghệ đang triển khai việc rà soát, xây dựng lại chương trình trên 150 tín chỉ chuyên sâu đặc thù để có thể cấp bằng Kỹ sư cho người học. Trường Đại học Sư phạm Kỹ thuật (ĐHSPKT) cũng nằm trong bối cảnh như vậy, hiện nay, Trường đang đào tạo 131 tín chỉ trong 4 năm, cho nên, tốt nghiệp chương trình này thì các em sẽ nhận bằng Cử nhân công nghệ kỹ thuật và trong năm 2020, nhà trường cũng sẽ sớm khởi động việc xây dựng chương trình đào tạo chuyên sâu đặc thù từ 150 tín chỉ trở lên để có thể cấp bằng Kỹ sư cho người học. Trước mắt, hai chương trình 131 tín chỉ và tăng 150 tín chỉ có thể tồn tại song song một thời gian. Sau đó, chuyển hẳn sang chương trình 150 tín chỉ. Thời gian đào tạo chương trình 150 tín chỉ sẽ dài hơn chương trình đào tạo 131 tín chỉ."
+},{
+  "_id": "640c56e651efcd11e8058358",
+  "intent": "cau_hoi_49",
+  "utter_name": "utter_cau_hoi_49",
+  "utter": "Hồ sơ nộp theo phương thức xét học bạ có đơn đăng ký xét tuyển, em nên nghiên cứu kĩ và ghi đầy đủ các thông tin theo quy định trên đơn. Còn các giấy tờ cần xác nhận của các đơn vị phụ trách, ví dụ: photo Chứng nhận tốt nghiệp THPT, photo học bạ THPT phải có chữ ký xác nhận của Trường mà em đang học. Còn lại các giấy tờ liên quan đến CMND, hay là các minh chứng được hưởng chính sách ưu tiên thì tùy theo minh chứng mà em sẽ có những xác nhận cụ thể. Đối với chữ ký của thầy Hiệu trưởng thì chỉ nằm trên xác nhận về kết quả học tập cũng như là xác nhận về Bằng cấp."
+},{
+  "_id": "640c56e651efcd11e8058359",
+  "intent": "cau_hoi_50",
+  "utter_name": "utter_cau_hoi_50",
+  "utter": "Ngành tự động hóa là ngành nghiên cứu làm sao kết hợp điều khiển kỹ thuật máy tính và vận hành điều khiển trong quá trình sản xuất nhằm thực hiện một công việc mà chúng ta không cần con người can thiệp vào. Hiện nay, với cuộc Cách mạng Công nghiệp 4.0, chúng ta thấy tất cả hiện nay theo những câu hot trend như sau: Smarthome - ngôi nhà thông minh; hoặc Smart City- thành phố thông minh; hoặc là nông nghiệp thông minh. Chúng ta thấy, để cho “thông minh”, phải làm sao điều khiển vận hành và tự động hóa, làm sao không có sự can thiệp của con người mà hệ thống vẫn tự vận hành, chẳng hạn như ứng dụng trí tuệ nhân tạo trong điều khiển hoặc là ứng dụng trong internet vạn vật. Qua khảo sát nhu cầu về thị trường hiện nay, thì cơ hội nghề nghiệp cho sinh viên học ngành tự động hóa có rất nhiều vị trí đang cần tuyển dụng: Khu Công nghệ cao, các nhà máy sản xuất…Sau khi sinh viên tốt nghiệp có thể tham gia vào vận hành sản xuất dây chuyền hiện đại công nghiệp như dây chuyền tự động hóa của nhà máy điện, các nhà máy chế biến thực phẩm, dây chuyền sản xuất vật liệu. Đặc biệt các em có thể trở thành những chuyên viên tư vấn, thiết kế phân tích và mô phỏng kỹ thuật tại các Nhà máy lắp ráp, tại các tập đoàn lớn. Trong Khoa Điện – Điện tử có 4 bộ môn, các em có thể tham gia vào các hoạt động nghiên cứu, học tập và sau khi tốt nghiệp cơ hội việc làm rất cao."
+},{
+  "_id": "640c56e651efcd11e8058360",
+  "intent": "cau_hoi_51",
+  "utter_name": "utter_cau_hoi_51",
+  "utter": "Ngành Công nghệ kỹ thuật ô tô xét học bạ, việc xét tuyển dựa vào kết quả học bạ và dựa vào Kỳ thi đánh giá năng lực Đại học Quốc gia Thành phố Hồ Chí Minh. Ngành Cơ khí được học lập trình máy CNC, các em được trải nghiệm lớp học với máy CNC, cơ hội việc làm lớn, ứng dụng rất nhiều."
+},{
+  "_id": "640c56e651efcd11e8058361",
+  "intent": "cau_hoi_52",
+  "utter_name": "utter_cau_hoi_52",
+  "utter": "Ngành kỹ thuật hạ tầng, tên chính xác là Kỹ thuật Cơ sở Hạ tầng, chuyên ngành Xây dựng Hạ tầng Đô thị. Hạ tầng đô thị là công trình gồm có hệ thống cấp nước, thoát nước, cấp điện, chiếu sáng, công viên, cây xanh…tất cả hệ thống về đường giao thông trong đô thị. Ngành Kỹ thuật Hạ tầng có sự tích hợp nhiều ngành ở trong xây dựng bao gồm cả ngành Cầu đường và ngành Xây dựng Dân dụng, Kiến trúc và Quản lý dự án. Cũng như sinh viên các ngành khác, cơ hội tham gia những chương trình đào tạo với các bậc Đại học với các trường có liên kết với nhà trường tại Nhật, Đài Loan, Thái Lan…"
+},{
+  "_id": "640c56e651efcd11e8058362",
+  "intent": "cau_hoi_53",
+  "utter_name": "utter_cau_hoi_53",
+  "utter": "Mỗi phương thức xét tuyển thì độc lập, có thể nộp hồ sơ phương thức xét tuyển độc lập và nộp hồ sơ theo phương thức xét tuyển khác nhau. Cháu đã nộp hồ sơ theo phương thức xét tuyển thi THPT thì đồng thời cháu cũng có thể xem xét để nộp hồ sơ theo phương thức học bạ. Ví dụ như vào ngành Công nghệ Thông tin của trường Đại học Sư phạm Kỹ thuật để tăng cơ hội trúng tuyển vào trường Đại học."
+},{
+  "_id": "640c56e651efcd11e8058363",
+  "intent": "cau_hoi_54",
+  "utter_name": "utter_cau_hoi_54",
+  "utter": "Điện công nghiệp là lĩnh vực liên quan đến công việc thiết kế, vận hành, kiểm tra sửa chữa, bảo trì các hệ thống điện trong các công ty, xí nghiệp, khu công nghiệp… Trong chương trình học thì có 10% khối lượng học phần tự chọn, nếu các em có nguyện vọng học chuyên sâu về lĩnh vực Điện công nghiệp thì các em hãy lựa chọn các môn học chuyên sâu đó để phù hợp với định hướng nghề nghiệp trong tương lai."
+},{
+  "_id": "640c56e651efcd11e8058364",
+  "intent": "cau_hoi_55",
+  "utter_name": "utter_cau_hoi_55",
+  "utter": "Nhu cầu tuyển dụng các ngành của khoa Điện – Điện tử hiện nay rất là cao. Ứng dụng vào cuộc sống kết hợp với phát triển công nghệ là rất lớn. Ngành Kỹ thuật điện tử là 1 trong các ngành mũi nhọn hiện nay, khả năng tìm kiếm việc làm của ngành này rất đa dạng. Các em có thể làm tư vấn, thiết kế, vận hành, bảo trì bảo dưỡng các hệ thống điện – điện tử trong các nhà máy, công ty, đơn vị sản xuất trong lĩnh vực này. Các em có thể tham gia các chương trình thiết kế, lập trình điều khiển ở các cơ quan, doanh nghiệp, các bộ phận nghiên cứu, làm việc trong phòng thí nghiệm hoặc làm giảng viên trong các trường có đào tạo ngành này."
+},{
+  "_id": "640c56e651efcd11e8058365",
+  "intent": "cau_hoi_56",
+  "utter_name": "utter_cau_hoi_56",
+  "utter": "Năm thứ 3 không phân chuyên ngành cho các em. Chuyên ngành trong học phần đã được định hướng trong học phần tự học và em có thể tự chọn học phần mà em cần học."
+},{
+  "_id": "640c56e651efcd11e8058366",
+  "intent": "cau_hoi_57",
+  "utter_name": "utter_cau_hoi_57",
+  "utter": "Về phía công ty Vifatech luôn quan tâm đến vấn đề giáo dục đào tạo, nên công ty rất hoan nghênh các em sinh viên đến thực tập tại công ty. Tôi khuyến khích các em đăng kí tham gia chương trình học kì doanh nghiệp, các chương trình mà công ty kết hợp với khoa Điện – Điện tử thực hiện. Thông thường, các em phải học khoảng 2 đến 3 năm để đủ kiến thức thực tập tại công ty. Nhưng không bắt buộc phải như vậy, nếu các em có định hướng tốt, tự học chuyên sâu nhiều hơn chuyên ngành tự động hóa. Vào năm thứ 2 của chương trình học, các em đã học được các kiến thức cơ bản và chuyên sâu của các anh chị năm 2, năm 3 thì các em hoàn toàn có thể đăng kí thực tập từ sớm tại công ty Vifatech."
+},{
+  "_id": "640c56e651efcd11e8058367",
+  "intent": "cau_hoi_58",
+  "utter_name": "utter_cau_hoi_58",
+  "utter": "Trong năm 2021, trường Đại học Sư phạm Kỹ thuật có 4 phương thức xét tuyển: xét theo điểm thi THPT năm 2021, xét theo học bạ, xét theo điểm thi đánh giá năng lực của trường Đại học Quốc gia thành phố Hồ Chí Minh tổ chức và xét theo đề án tuyển sinh riêng của trường cho các thí sinh thỏa mãn 1 số tiêu chuẩn, tiêu chí riêng đặc biệt. Đối với phương thức xét học bạ, thí sinh đã tốt nghiệp THPT theo hệ giáo dục chính quy hoặc giáo dục thường xuyên có tổng điểm theo tổ hợp xét tuyển, đảm bảo chất lượng đầu vào từ 16 hoặc 18 điểm tùy theo ngành và không có môn nào dưới 5 điểm. Điểm xét tuyển là tổng điểm các môn học theo từng tổ hợp xét tuyển của năm, cộng với điểm ưu tiên. Tổng điểm các môn học theo từng tổ hợp xét tuyển là trung bình cộng điểm của năm học lớp 10, điểm của lớp 11 và điểm học kì 1 lớp 12."
+},{
+  "_id": "640c56e651efcd11e8058368",
+  "intent": "cau_hoi_59",
+  "utter_name": "utter_cau_hoi_59",
+  "utter": "Các em nên chọn ngành trước. Các em hãy chọn ngành theo sự đam mê, sở thích của mình trước. Sau đó tìm hiểu trường nào có các ngành em thích để tìm hiểu thêm. Để có thể chọn được ngành em thích thì phải làm rõ được sở thích của bản thân; liệt kê các ngành nghề các em đã định hướng trước; tìm hiểu những kiến thức, kỹ năng, tố chất cần thiết của công việc em sẽ chọn có phù hợp không; cuối cùng xác định được ngành phù hợp nhất với bản thân. Sau khi đã chọn được trường, em nên đến tìm hiểu và tham quan trường đó trước để quyết định được chính xác nhất."
+},{
+  "_id": "640c56e651efcd11e8058369",
+  "intent": "cau_hoi_60",
+  "utter_name": "utter_cau_hoi_60",
+  "utter": "Công ty luôn hoan nghênh các em sinh viên đến thực tập. Ngoài ra, công ty có rất nhiều chương trình cho sinh viên như học bổng cho sinh viên tài năng, vừa thực tập vừa được phát học bổng… Các bạn sẽ được tập huấn, làm việc thực tế, tiếp cận được với những công nghệ thực tế trong lĩnh vực IT, vừa thực tập vừa được hưởng lương làm việc."
+},{
+  "_id": "640c56e651efcd11e8058370",
+  "intent": "cau_hoi_61",
+  "utter_name": "utter_cau_hoi_61",
+  "utter": "Nếu các em nằm trong vùng được cộng điểm vùng thì chắc chắn sẽ được cộng điểm vùng theo quy chế tuyển sinh của Bộ Giáo dục và Đào tạo đưa ra. Hồ sơ xét tuyển học bạ sẽ được Đại học Đà Nẵng công bố chi tiết trên trang tuyển sinh của Đại học Đà Nẵng, dự kiến thời gian nộp hồ sơ từ ngày 15/4/2021 đến 15/6/2021. Căn cứ vào việc tuyển sinh năm 2020, tôi tạm thông báo hồ sơ học bạ gồm đơn đăng kí xét tuyển được công bố online trên trang tuyển sinh của Đại học Đà Nẵng; ảnh chụp chứng minh nhân dân hoặc căn cước công dân; ảnh chụp các chứng nhận tốt nghiệp THPT đối với các em đã tốt nghiệp THPT các năm trước; ảnh chụp học bạ THPT hoặc xác nhận điểm THPT; biên lai nộp lệ phí đăng kí xét tuyển cũng như ảnh chụp các minh chứng được hưởng các chính sách ưu tiên. Trong năm 2021, Đại học Đà Nẵng sẽ tiến hành thu online 100% cho phương thức xét tuyển học bạ."
+},{
+  "_id": "640c56e651efcd11e8058371",
+  "intent": "cau_hoi_62",
+  "utter_name": "utter_cau_hoi_62",
+  "utter": "Khoa Điện – Điện tử cùng với khoa Cơ khí của trường đã hợp tác với công ty Hitachi để xây dựng phòng thí nghiệm công nghệ số. Mục đích để phát triển chương trình đào tạo của ngành công nghệ 4.0; đào tạo cho sinh viên đáp ứng được chương trình đạo tạo mới; đào tạo kỹ năng thực hành trong phòng thí nghiệm; giúp mở rộng tầm nhìn, tư duy, sáng tạo, xây dựng giải pháp tối ưu và tiết kiệm chi phí sản xuất cho sinh viên, đáp ứng nhu cầu cho tương lai. Phòng thí nghiệm được xây dựng dựa trên giải pháp về phần mềm, phần cứng đang được sử dụng trong các nhà máy hiện đại hiện nay; những giải pháp về thiết kế điện - điện tử, công nghệ thông tin, tự động hóa và hệ thống điện; cung cấp cho sinh viên các kiến thức, kỹ năng thiết kế xây dựng các giải pháp tự động hóa kỹ thuật, lập trình hệ thống điều khiển trong xu thế công nghệ cách mạng 4.0 hiện nay."
+},{
+  "_id": "640c56e651efcd11e8058372",
+  "intent": "cau_hoi_63",
+  "utter_name": "utter_cau_hoi_63",
+  "utter": "Cuộc cách mạng 4.0 đánh dấu sự phát triển vượt bậc của công nghệ liên ngạch. Trong tương lai, sự phát triển không ngừng của các thành phố thông minh, các công trình hiện đại… sẽ đem lại nhu cầu rất lớn về nhân lực cho nhiều ngành, không riêng gì các ngành hot hiện nay như ngành Công nghệ thông tin. Khi chọn ngành, các em hãy chọn ngành phù hợp với sở thích đam mê và khả năng của mình, không cần quá chú trọng đến ngành đó có quá hot hay không."
+},{
+  "_id": "640c56e651efcd11e8058373",
+  "intent": "cau_hoi_64",
+  "utter_name": "utter_cau_hoi_64",
+  "utter": "Học phí của ngành Công nghệ thông tin nói riêng và các ngành khác của trường ĐHSPKT nói chung là 11.700.000đ/năm. Ngành Công nghệ thông tin là 1 trong những ngành hot hiện nay nên cơ hội việc làm rất là nhiều."
+},{
+  "_id": "640c56e651efcd11e8058374",
+  "intent": "cau_hoi_65",
+  "utter_name": "utter_cau_hoi_65",
+  "utter": "Đối với bất cứ ngành nào cũng có khó khăn riêng, chỉ cần các em có đam mê và nỗ lực của bản thân thì sẽ đạt được thành công. Đầu ra công việc của ngành này rất tốt. Tùy thuộc vào năng lực của các em, như ngành Tự động hóa khi sinh viên mới ra trường thì mức lương khoảng từ 6.000.00đ đến 9.000.000đ/ tháng, dần dần mức lương sẽ cao theo năng lực và vị trí việc làm."
+},{
+  "_id": "640c56e651efcd11e8058375",
+  "intent": "cau_hoi_66",
+  "utter_name": "utter_cau_hoi_66",
+  "utter": "Rất khó trả lời chính xác cho câu hỏi của em. Em có thể tham khảo điểm xét tuyển học bạ của năm 2019 – 2020, mức điểm sẽ dao động tùy theo mỗi năm. Với 22 điểm, chưa cộng điểm vùng thì em có thể nộp vào ngành Điện – Điện tử và Tự động hóa của trường."
+},{
+  "_id": "640c56e651efcd11e8058376",
+  "intent": "cau_hoi_67",
+  "utter_name": "utter_cau_hoi_67",
+  "utter": "Nếu em có đam mê và sự nỗ lực thì các em có thể học được các ngành em thích. Đối với các tổ hợp môn xét tuyển của các ngành em đề cập thì có tổ hợp xét tuyển phù hợp với các em đang học ban C nên em có thể yên tâm nộp đơn xét tuyển vào các ngành đó."
+}]
